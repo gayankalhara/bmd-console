@@ -1,0 +1,113 @@
+.timeline-widget-4 .row {
+  margin: 0;
+  padding: 0;
+}
+
+.timeline-widget-4 p {
+  margin-bottom: 5px;
+}
+
+.timeline-widget-4 .timeline {
+  position: relative;
+  padding-left: 40px;
+}
+
+.timeline-widget-4 .timeline:before {
+  content: '';
+  position: absolute;
+  display: block;
+  width: 2px;
+  height: 100%;
+  top: 0;
+  bottom: 0px;
+  left: 20px;
+  z-index: 1;
+  background: #fff;
+}
+
+.timeline-widget-4 .timeline:after {
+  content: '';
+  position: absolute;
+  display: block;
+  top: 50%;
+  left: 20px;
+  width: 12px;
+  height: 12px;
+  background-color: #fff;
+  border-radius: 50% !important;
+  z-index: 2;
+  margin-top: -6px;
+  margin-left: -5px;
+}
+
+.timeline-widget-4 .timeline-light:before {
+  background: #f5f5f5 !important;
+}
+
+.timeline-widget-4 .timeline-light:after {
+  background-color: #f5f5f5 !important;
+}
+
+.timeline-widget-4 .timeline-dark:before {
+  background: #212121 !important;
+}
+
+.timeline-widget-4 .timeline-dark:after {
+  background-color: #212121 !important;
+}
+
+.timeline-widget-4 .timeline-default:before {
+  background: #212121 !important;
+}
+
+.timeline-widget-4 .timeline-default:after {
+  background-color: #212121 !important;
+}
+
+.timeline-widget-4 .timeline-primary:before {
+  background: #2684f5 !important;
+}
+
+.timeline-widget-4 .timeline-primary:after {
+  background-color: #2684f5 !important;
+}
+
+.timeline-widget-4 .timeline-secondary:before {
+  background: #6200ea !important;
+}
+
+.timeline-widget-4 .timeline-secondary:after {
+  background-color: #6200ea !important;
+}
+
+.timeline-widget-4 .timeline-info:before {
+  background: #00b8d4 !important;
+}
+
+.timeline-widget-4 .timeline-info:after {
+  background-color: #00b8d4 !important;
+}
+
+.timeline-widget-4 .timeline-success:before {
+  background: #43a047 !important;
+}
+
+.timeline-widget-4 .timeline-success:after {
+  background-color: #43a047 !important;
+}
+
+.timeline-widget-4 .timeline-warning:before {
+  background: #ff9800 !important;
+}
+
+.timeline-widget-4 .timeline-warning:after {
+  background-color: #ff9800 !important;
+}
+
+.timeline-widget-4 .timeline-danger:before {
+  background: #e53935 !important;
+}
+
+.timeline-widget-4 .timeline-danger:after {
+  background-color: #e53935 !important;
+}

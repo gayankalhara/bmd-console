@@ -1,0 +1,169 @@
+#dashboards-dashboard-2 .jumbotron-1 {
+  height: 0;
+  visibility: hidden;
+}
+
+#dashboards-dashboard-2 .main {
+  padding-top: 0;
+  margin-top: -20px;
+}
+
+#dashboards-dashboard-2 .dashboard-widget-1 {
+  position: relative;
+}
+
+#dashboards-dashboard-2 .dashboard-widget-1 .line-chart {
+  display: block;
+  height: 50px;
+  color: transparent;
+}
+
+#dashboards-dashboard-2 .dashboard-widget-1 .row {
+  margin: 0;
+  padding: 0;
+}
+
+#dashboards-dashboard-2 .dashboard-widget-1 .row .col-xs-12 {
+  margin: 0;
+  padding: 0;
+}
+
+#dashboards-dashboard-2 .dashboard-widget-1 .btn-circle {
+  position: absolute;
+  top: 10px;
+  right: 20px;
+  padding: 17px;
+  cursor: none;
+  pointer-events: none;
+}
+
+#dashboards-dashboard-2 .dashboard-widget-1 .btn-circle i {
+  font-size: 20px;
+}
+
+#dashboards-dashboard-2 .dashboard-widget-1 .number {
+  font-size: 28px;
+  margin-bottom: 5px;
+  font-weight: 500;
+}
+
+#dashboards-dashboard-2 .dashboard-widget-1 .title {
+  font-size: 12px;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+#dashboards-dashboard-2 .dashboard-widget-1 .number {
+  font-size: 28px;
+  margin-bottom: 5px;
+  font-weight: 500;
+}
+
+#dashboards-dashboard-2 .dashboard-widget-1 .title {
+  font-size: 12px;
+  text-transform: uppercase;
+  font-weight: 700;
+  margin-bottom: 15px;
+}
+
+#dashboards-dashboard-2 .social-media-stats > .row {
+  margin-bottom: 10px;
+}
+
+#dashboards-dashboard-2 .sales-volume-widget {
+  padding: 40px 20px;
+  margin-bottom: 20px;
+}
+
+#dashboards-dashboard-2 .sales-volume-widget #sales-volume-chart svg {
+  height: 200px;
+}
+
+#dashboards-dashboard-2 .products-widget table td:nth-child(6) {
+  width: 150px;
+}
+
+#dashboards-dashboard-2 .products-widget table td:nth-child(1) {
+  width: 80px;
+}
+
+#dashboards-dashboard-2 .products-widget table td:nth-child(2) {
+  width: 100px;
+}
+
+@media (max-width: 543px) {
+  #dashboards-dashboard-2 .products-widget table, #dashboards-dashboard-2 .products-widget thead, #dashboards-dashboard-2 .products-widget tbody, #dashboards-dashboard-2 .products-widget th, #dashboards-dashboard-2 .products-widget td, #dashboards-dashboard-2 .products-widget tr {
+    display: block;
+    width: 100% !important;
+  }
+  #dashboards-dashboard-2 .products-widget table:hover, #dashboards-dashboard-2 .products-widget thead:hover, #dashboards-dashboard-2 .products-widget tbody:hover, #dashboards-dashboard-2 .products-widget th:hover, #dashboards-dashboard-2 .products-widget td:hover, #dashboards-dashboard-2 .products-widget tr:hover {
+    background-color: none !important;
+  }
+  #dashboards-dashboard-2 .products-widget table img, #dashboards-dashboard-2 .products-widget table .sku, #dashboards-dashboard-2 .products-widget table .brand, #dashboards-dashboard-2 .products-widget thead img, #dashboards-dashboard-2 .products-widget thead .sku, #dashboards-dashboard-2 .products-widget thead .brand, #dashboards-dashboard-2 .products-widget tbody img, #dashboards-dashboard-2 .products-widget tbody .sku, #dashboards-dashboard-2 .products-widget tbody .brand, #dashboards-dashboard-2 .products-widget th img, #dashboards-dashboard-2 .products-widget th .sku, #dashboards-dashboard-2 .products-widget th .brand, #dashboards-dashboard-2 .products-widget td img, #dashboards-dashboard-2 .products-widget td .sku, #dashboards-dashboard-2 .products-widget td .brand, #dashboards-dashboard-2 .products-widget tr img, #dashboards-dashboard-2 .products-widget tr .sku, #dashboards-dashboard-2 .products-widget tr .brand {
+    display: none;
+  }
+  #dashboards-dashboard-2 .products-widget th {
+    display: none;
+  }
+}
+
+@media (min-width: 544px) and (max-width: 767px) {
+  #dashboards-dashboard-2 .products-widget table, #dashboards-dashboard-2 .products-widget thead, #dashboards-dashboard-2 .products-widget tbody, #dashboards-dashboard-2 .products-widget th, #dashboards-dashboard-2 .products-widget td, #dashboards-dashboard-2 .products-widget tr {
+    display: block;
+    width: 100% !important;
+  }
+  #dashboards-dashboard-2 .products-widget table:hover, #dashboards-dashboard-2 .products-widget thead:hover, #dashboards-dashboard-2 .products-widget tbody:hover, #dashboards-dashboard-2 .products-widget th:hover, #dashboards-dashboard-2 .products-widget td:hover, #dashboards-dashboard-2 .products-widget tr:hover {
+    background-color: none !important;
+  }
+  #dashboards-dashboard-2 .products-widget table img, #dashboards-dashboard-2 .products-widget table .sku, #dashboards-dashboard-2 .products-widget table .brand, #dashboards-dashboard-2 .products-widget thead img, #dashboards-dashboard-2 .products-widget thead .sku, #dashboards-dashboard-2 .products-widget thead .brand, #dashboards-dashboard-2 .products-widget tbody img, #dashboards-dashboard-2 .products-widget tbody .sku, #dashboards-dashboard-2 .products-widget tbody .brand, #dashboards-dashboard-2 .products-widget th img, #dashboards-dashboard-2 .products-widget th .sku, #dashboards-dashboard-2 .products-widget th .brand, #dashboards-dashboard-2 .products-widget td img, #dashboards-dashboard-2 .products-widget td .sku, #dashboards-dashboard-2 .products-widget td .brand, #dashboards-dashboard-2 .products-widget tr img, #dashboards-dashboard-2 .products-widget tr .sku, #dashboards-dashboard-2 .products-widget tr .brand {
+    display: none;
+  }
+  #dashboards-dashboard-2 .products-widget th {
+    display: none;
+  }
+}
+
+#dashboards-dashboard-2 .products-widget img {
+  height: 50px;
+  width: 50px;
+  border-width: 3px;
+  border-style: solid;
+  border-color: #fff;
+  box-shadow: 0px 4px 5px -2px rgba(0, 0, 0, 0.2), 0px 7px 10px 1px rgba(0, 0, 0, 0.14), 0px 2px 16px 1px rgba(0, 0, 0, 0.12);
+}
+
+[data-background="light"] #dashboards-dashboard-2 .dashboard-widget-1 {
+  background-color: #fff;
+}
+
+[data-background="light"] #dashboards-dashboard-2 .dashboard-widget-1 .line-chart {
+  color: #fff;
+}
+
+[data-background="light"] #dashboards-dashboard-2 .dashboard-widget-1 .fa, [data-background="light"] #dashboards-dashboard-2 .dashboard-widget-1 .number, [data-background="light"] #dashboards-dashboard-2 .dashboard-widget-1 .title {
+  color: #353535;
+}
+
+[data-background="dark"] #dashboards-dashboard-2 .dashboard-widget-1 {
+  background-color: #262626;
+}
+
+[data-background="dark"] #dashboards-dashboard-2 .dashboard-widget-1 .line-chart {
+  color: #262626;
+}
+
+[data-background="dark"] #dashboards-dashboard-2 .dashboard-widget-1 .fa, [data-background="dark"] #dashboards-dashboard-2 .dashboard-widget-1 .number, [data-background="dark"] #dashboards-dashboard-2 .dashboard-widget-1 .title {
+  color: #f5f5f5;
+}
+
+[data-background="primary"] #dashboards-dashboard-2 .dashboard-widget-1 {
+  background-color: #1c2586;
+}
+
+[data-background="primary"] #dashboards-dashboard-2 .dashboard-widget-1 .line-chart {
+  color: #1c2586;
+}
+
+[data-background="primary"] #dashboards-dashboard-2 .dashboard-widget-1 .fa, [data-background="primary"] #dashboards-dashboard-2 .dashboard-widget-1 .number, [data-background="primary"] #dashboards-dashboard-2 .dashboard-widget-1 .title {
+  color: #f5f5f5;
+}

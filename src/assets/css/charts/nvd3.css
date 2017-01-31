@@ -1,0 +1,476 @@
+[data-background="light"] .nvd3 text, [data-background="light"] .nv-label text {
+  fill: #353535;
+  font-family: "Lato", sans-serif;
+  font-size: 12px;
+  font-weight: normal;
+}
+
+[data-background="light"] .nvd3-pie,
+[data-background="light"] .nvd3-donut {
+  font-family: "Lato", sans-serif;
+  font-size: 12px;
+  font-weight: normal;
+}
+
+[data-background="light"] .nvd3-pie .nvd3.nv-pie path,
+[data-background="light"] .nvd3-donut .nvd3.nv-pie path {
+  stroke: #fff;
+}
+
+[data-background="light"] .nvd3-pie .nvd3.nv-pie path,
+[data-background="light"] .nvd3-donut .nvd3.nv-pie path {
+  fill-opacity: 1;
+}
+
+[data-background="light"] .nvd3-pie .nv-label text,
+[data-background="light"] .nvd3-donut .nv-label text {
+  fill: #353535 !important;
+}
+
+[data-background="light"] .nvd3 .nv-axis path {
+  stroke: #e6e6e6;
+}
+
+[data-background="light"] .nvd3 .nv-axis line {
+  stroke: #e6e6e6;
+}
+
+[data-background="light"] .nvd3 .nv-bars .hover rect {
+  fill: #fff;
+}
+
+[data-background="light"] .nvd3 .nv-bars text {
+  fill: #353535;
+}
+
+[data-background="light"] .nvd3 .nv-bars .hover text {
+  fill: #353535;
+}
+
+[data-background="light"] .nvd3 .nv-discretebar .nv-groups text,
+[data-background="light"] .nvd3 .nv-multibarHorizontal .nv-groups text {
+  fill: #353535;
+}
+
+[data-background="light"] .nvd3 line.nv-boxplot-median {
+  stroke: #353535;
+}
+
+[data-background="light"] .nvd3 .nv-point-paths path {
+  stroke: #e6e6e6;
+  fill: #e6e6e6;
+}
+
+[data-background="light"] .nvd3 text {
+  font-family: "Lato", sans-serif;
+  font-size: 12px;
+  font-weight: normal;
+}
+
+[data-background="light"] .nvd3 .title {
+  font-family: "Lato", sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+}
+
+[data-background="light"] .nvd3 .nv-background {
+  fill: #fff;
+}
+
+[data-background="light"] .nv-brush .resize path {
+  fill: #e6e6e6;
+  stroke: #e6e6e6;
+}
+
+[data-background="light"] .nvd3 .nv-brushBackground rect {
+  stroke: #fff;
+  fill: #353535;
+}
+
+[data-background="light"] .nvd3 .background path {
+  stroke: #fff;
+}
+
+[data-background="light"] .nvd3 .nv-parallelCoordinates-brush .extent {
+  fill: #353535;
+  stroke: #fff;
+}
+
+[data-background="light"] .nvd3 .missingValuesline line {
+  stroke: #fff;
+}
+
+[data-background="light"] .nvd3.nv-pie .nv-pie-title {
+  fill: #353535;
+}
+
+[data-background="light"] .nvd3.nv-pie .nv-slice text {
+  stroke: #353535;
+}
+
+[data-background="light"] .nvd3.nv-pie path {
+  stroke: #fff;
+}
+
+[data-background="light"] .nvd3.nv-sparklineplus .nv-hoverValue line {
+  stroke: #e6e6e6;
+}
+
+[data-background="light"] .nvd3.nv-sparklineplus .nv-yValue {
+  stroke: #353535;
+}
+
+[data-background="light"] .nvd3.nv-sparklineplus .nv-maxValue {
+  stroke: #353535;
+  fill: #353535;
+}
+
+[data-background="light"] .nvd3.nv-sparklineplus .nv-minValue {
+  stroke: #353535;
+  fill: #353535;
+}
+
+[data-background="light"] .nvtooltip {
+  background: white;
+  color: #353535;
+  border: 1px solid #e6e6e6;
+  font-family: "Lato", sans-serif;
+  box-shadow: 0px 4px 5px -2px rgba(0, 0, 0, 0.2), 0px 7px 10px 1px rgba(0, 0, 0, 0.14), 0px 2px 16px 1px rgba(0, 0, 0, 0.12);
+}
+
+[data-background="light"] .nvtooltip h3 {
+  background: white;
+  color: #353535;
+  border: 1px solid #e6e6e6;
+}
+
+[data-background="light"] .nvtooltip table td.legend-color-guide div {
+  border: 1px solid #e6e6e6;
+}
+
+[data-background="light"] .nvd3 line.nv-guideline {
+  stroke: #e6e6e6;
+}
+
+[data-background="light"] .nvd3.nv-stackedarea path.nv-area {
+  fill-opacity: 1;
+  stroke-opacity: 0;
+}
+
+[data-background="dark"] .nvd3 text, [data-background="dark"] .nv-label text {
+  fill: #f5f5f5;
+  font-family: "Lato", sans-serif;
+  font-size: 12px;
+  font-weight: normal;
+}
+
+[data-background="dark"] .nvd3-pie,
+[data-background="dark"] .nvd3-donut {
+  font-family: "Lato", sans-serif;
+  font-size: 12px;
+  font-weight: normal;
+}
+
+[data-background="dark"] .nvd3-pie .nvd3.nv-pie path,
+[data-background="dark"] .nvd3-donut .nvd3.nv-pie path {
+  stroke: #262626;
+}
+
+[data-background="dark"] .nvd3-pie .nvd3.nv-pie path,
+[data-background="dark"] .nvd3-donut .nvd3.nv-pie path {
+  fill-opacity: 1;
+}
+
+[data-background="dark"] .nvd3-pie .nv-label text,
+[data-background="dark"] .nvd3-donut .nv-label text {
+  fill: #f5f5f5 !important;
+}
+
+[data-background="dark"] .nvd3 .nv-axis path {
+  stroke: #2b2b2b;
+}
+
+[data-background="dark"] .nvd3 .nv-axis line {
+  stroke: #2b2b2b;
+}
+
+[data-background="dark"] .nvd3 .nv-bars .hover rect {
+  fill: #262626;
+}
+
+[data-background="dark"] .nvd3 .nv-bars text {
+  fill: #f5f5f5;
+}
+
+[data-background="dark"] .nvd3 .nv-bars .hover text {
+  fill: #f5f5f5;
+}
+
+[data-background="dark"] .nvd3 .nv-discretebar .nv-groups text,
+[data-background="dark"] .nvd3 .nv-multibarHorizontal .nv-groups text {
+  fill: #f5f5f5;
+}
+
+[data-background="dark"] .nvd3 line.nv-boxplot-median {
+  stroke: #f5f5f5;
+}
+
+[data-background="dark"] .nvd3 .nv-point-paths path {
+  stroke: #2b2b2b;
+  fill: #2b2b2b;
+}
+
+[data-background="dark"] .nvd3 text {
+  font-family: "Lato", sans-serif;
+  font-size: 12px;
+  font-weight: normal;
+}
+
+[data-background="dark"] .nvd3 .title {
+  font-family: "Lato", sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+}
+
+[data-background="dark"] .nvd3 .nv-background {
+  fill: #262626;
+}
+
+[data-background="dark"] .nv-brush .resize path {
+  fill: #2b2b2b;
+  stroke: #2b2b2b;
+}
+
+[data-background="dark"] .nvd3 .nv-brushBackground rect {
+  stroke: #262626;
+  fill: #f5f5f5;
+}
+
+[data-background="dark"] .nvd3 .background path {
+  stroke: #262626;
+}
+
+[data-background="dark"] .nvd3 .nv-parallelCoordinates-brush .extent {
+  fill: #f5f5f5;
+  stroke: #262626;
+}
+
+[data-background="dark"] .nvd3 .missingValuesline line {
+  stroke: #262626;
+}
+
+[data-background="dark"] .nvd3.nv-pie .nv-pie-title {
+  fill: #f5f5f5;
+}
+
+[data-background="dark"] .nvd3.nv-pie .nv-slice text {
+  stroke: #f5f5f5;
+}
+
+[data-background="dark"] .nvd3.nv-pie path {
+  stroke: #262626;
+}
+
+[data-background="dark"] .nvd3.nv-sparklineplus .nv-hoverValue line {
+  stroke: #2b2b2b;
+}
+
+[data-background="dark"] .nvd3.nv-sparklineplus .nv-yValue {
+  stroke: #f5f5f5;
+}
+
+[data-background="dark"] .nvd3.nv-sparklineplus .nv-maxValue {
+  stroke: #f5f5f5;
+  fill: #f5f5f5;
+}
+
+[data-background="dark"] .nvd3.nv-sparklineplus .nv-minValue {
+  stroke: #f5f5f5;
+  fill: #f5f5f5;
+}
+
+[data-background="dark"] .nvtooltip {
+  background: #404040;
+  color: #f5f5f5;
+  border: 1px solid #2b2b2b;
+  font-family: "Lato", sans-serif;
+  box-shadow: 0px 4px 5px -2px rgba(0, 0, 0, 0.2), 0px 7px 10px 1px rgba(0, 0, 0, 0.14), 0px 2px 16px 1px rgba(0, 0, 0, 0.12);
+}
+
+[data-background="dark"] .nvtooltip h3 {
+  background: #404040;
+  color: #f5f5f5;
+  border: 1px solid #2b2b2b;
+}
+
+[data-background="dark"] .nvtooltip table td.legend-color-guide div {
+  border: 1px solid #2b2b2b;
+}
+
+[data-background="dark"] .nvd3 line.nv-guideline {
+  stroke: #2b2b2b;
+}
+
+[data-background="dark"] .nvd3.nv-stackedarea path.nv-area {
+  fill-opacity: 1;
+  stroke-opacity: 0;
+}
+
+[data-background="primary"] .nvd3 text, [data-background="primary"] .nv-label text {
+  fill: #f5f5f5;
+  font-family: "Lato", sans-serif;
+  font-size: 12px;
+  font-weight: normal;
+}
+
+[data-background="primary"] .nvd3-pie,
+[data-background="primary"] .nvd3-donut {
+  font-family: "Lato", sans-serif;
+  font-size: 12px;
+  font-weight: normal;
+}
+
+[data-background="primary"] .nvd3-pie .nvd3.nv-pie path,
+[data-background="primary"] .nvd3-donut .nvd3.nv-pie path {
+  stroke: #1c2586;
+}
+
+[data-background="primary"] .nvd3-pie .nvd3.nv-pie path,
+[data-background="primary"] .nvd3-donut .nvd3.nv-pie path {
+  fill-opacity: 1;
+}
+
+[data-background="primary"] .nvd3-pie .nv-label text,
+[data-background="primary"] .nvd3-donut .nv-label text {
+  fill: #f5f5f5 !important;
+}
+
+[data-background="primary"] .nvd3 .nv-axis path {
+  stroke: #1d288f;
+}
+
+[data-background="primary"] .nvd3 .nv-axis line {
+  stroke: #1d288f;
+}
+
+[data-background="primary"] .nvd3 .nv-bars .hover rect {
+  fill: #1c2586;
+}
+
+[data-background="primary"] .nvd3 .nv-bars text {
+  fill: #f5f5f5;
+}
+
+[data-background="primary"] .nvd3 .nv-bars .hover text {
+  fill: #f5f5f5;
+}
+
+[data-background="primary"] .nvd3 .nv-discretebar .nv-groups text,
+[data-background="primary"] .nvd3 .nv-multibarHorizontal .nv-groups text {
+  fill: #f5f5f5;
+}
+
+[data-background="primary"] .nvd3 line.nv-boxplot-median {
+  stroke: #f5f5f5;
+}
+
+[data-background="primary"] .nvd3 .nv-point-paths path {
+  stroke: #1d288f;
+  fill: #1d288f;
+}
+
+[data-background="primary"] .nvd3 text {
+  font-family: "Lato", sans-serif;
+  font-size: 12px;
+  font-weight: normal;
+}
+
+[data-background="primary"] .nvd3 .title {
+  font-family: "Lato", sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+}
+
+[data-background="primary"] .nvd3 .nv-background {
+  fill: #1c2586;
+}
+
+[data-background="primary"] .nv-brush .resize path {
+  fill: #1d288f;
+  stroke: #1d288f;
+}
+
+[data-background="primary"] .nvd3 .nv-brushBackground rect {
+  stroke: #1c2586;
+  fill: #f5f5f5;
+}
+
+[data-background="primary"] .nvd3 .background path {
+  stroke: #1c2586;
+}
+
+[data-background="primary"] .nvd3 .nv-parallelCoordinates-brush .extent {
+  fill: #f5f5f5;
+  stroke: #1c2586;
+}
+
+[data-background="primary"] .nvd3 .missingValuesline line {
+  stroke: #1c2586;
+}
+
+[data-background="primary"] .nvd3.nv-pie .nv-pie-title {
+  fill: #f5f5f5;
+}
+
+[data-background="primary"] .nvd3.nv-pie .nv-slice text {
+  stroke: #f5f5f5;
+}
+
+[data-background="primary"] .nvd3.nv-pie path {
+  stroke: #1c2586;
+}
+
+[data-background="primary"] .nvd3.nv-sparklineplus .nv-hoverValue line {
+  stroke: #1d288f;
+}
+
+[data-background="primary"] .nvd3.nv-sparklineplus .nv-yValue {
+  stroke: #f5f5f5;
+}
+
+[data-background="primary"] .nvd3.nv-sparklineplus .nv-maxValue {
+  stroke: #f5f5f5;
+  fill: #f5f5f5;
+}
+
+[data-background="primary"] .nvd3.nv-sparklineplus .nv-minValue {
+  stroke: #f5f5f5;
+  fill: #f5f5f5;
+}
+
+[data-background="primary"] .nvtooltip {
+  background: #2431b1;
+  color: #f5f5f5;
+  border: 1px solid #1d288f;
+  font-family: "Lato", sans-serif;
+  box-shadow: 0px 4px 5px -2px rgba(0, 0, 0, 0.2), 0px 7px 10px 1px rgba(0, 0, 0, 0.14), 0px 2px 16px 1px rgba(0, 0, 0, 0.12);
+}
+
+[data-background="primary"] .nvtooltip h3 {
+  background: #2431b1;
+  color: #f5f5f5;
+  border: 1px solid #1d288f;
+}
+
+[data-background="primary"] .nvtooltip table td.legend-color-guide div {
+  border: 1px solid #1d288f;
+}
+
+[data-background="primary"] .nvd3 line.nv-guideline {
+  stroke: #1d288f;
+}
+
+[data-background="primary"] .nvd3.nv-stackedarea path.nv-area {
+  fill-opacity: 1;
+  stroke-opacity: 0;
+}

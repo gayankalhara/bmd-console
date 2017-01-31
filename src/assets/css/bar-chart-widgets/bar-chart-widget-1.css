@@ -1,0 +1,66 @@
+.bar-chart-widget-1 {
+  width: 100%;
+  position: relative;
+  height: 200px;
+}
+
+.bar-chart-widget-1 .row, .bar-chart-widget-1 .col-xs-12 {
+  margin: 0;
+  padding: 0;
+}
+
+.bar-chart-widget-1 .ct-chart {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1;
+  display: block;
+  width: 100%;
+  min-height: 200px !important;
+  height: 200px !important;
+}
+
+.bar-chart-widget-1 .chart-placeholder {
+  min-height: 200px !important;
+  height: 200px !important;
+}
+
+.bar-chart-widget-1 .ct-label {
+  display: none;
+}
+
+.bar-chart-widget-1 .title {
+  z-index: 2;
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  font-size: 14px;
+}
+
+.bar-chart-widget-1 .amount {
+  z-index: 2;
+  position: absolute;
+  top: 35px;
+  left: 20px;
+  font-size: 42px;
+  font-weight: 700;
+}
+
+.bar-chart-widget-1 .percent {
+  z-index: 2;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.bar-chart-widget-1 .subtitle {
+  z-index: 2;
+  position: absolute;
+  top: 50px;
+  right: 20px;
+  font-size: 12px;
+}

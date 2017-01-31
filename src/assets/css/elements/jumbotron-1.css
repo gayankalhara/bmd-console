@@ -1,0 +1,119 @@
+.jumbotron-1 {
+  border-radius: 0;
+  border: 0;
+  position: relative;
+  border-style: solid;
+  overflow: hidden;
+  background: none;
+  margin: 0;
+  padding: 20px;
+}
+
+.jumbotron-1 .jumbotron {
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+}
+
+.jumbotron-1 .jumbotron h4 {
+  padding-top: 5px;
+  font-size: 20px;
+  margin: 0;
+}
+
+.jumbotron-1 .jumbotron .breadcrumb {
+  padding: 0;
+  margin: 0;
+  font-weight: 400;
+  font-size: 14px;
+}
+
+.jumbotron-1 .jumbotron .btn {
+  float: right;
+  margin-left: 10px;
+  margin-top: 15px;
+}
+
+@media (max-width: 543px) {
+  .jumbotron-1 .jumbotron .btn {
+    display: none;
+  }
+}
+
+@media (min-width: 544px) and (max-width: 767px) {
+  .jumbotron-1 .jumbotron .btn {
+    display: none;
+  }
+}
+
+[data-background="light"] .jumbotron-1 {
+  background-color: #f5f5f5;
+  border-bottom: 1px solid #f5f5f5;
+  color: #353535;
+}
+
+[data-background="light"] .jumbotron-1 a {
+  color: #353535;
+}
+
+[data-background="light"] .jumbotron-1 .jumbotron {
+  background-color: #f5f5f5;
+  border-color: #f5f5f5;
+  color: #353535;
+}
+
+[data-background="light"] .jumbotron-1 .jumbotron .breadcrumb {
+  color: #353535;
+}
+
+[data-background="light"] .jumbotron-1 .jumbotron .breadcrumb li, [data-background="light"] .jumbotron-1 .jumbotron .breadcrumb a {
+  color: #353535;
+}
+
+[data-background="dark"] .jumbotron-1 {
+  background-color: #212121;
+  border-bottom: 1px solid #212121;
+  color: #f5f5f5;
+}
+
+[data-background="dark"] .jumbotron-1 a {
+  color: #f5f5f5;
+}
+
+[data-background="dark"] .jumbotron-1 .jumbotron {
+  background-color: #212121;
+  border-color: #212121;
+  color: #f5f5f5;
+}
+
+[data-background="dark"] .jumbotron-1 .jumbotron .breadcrumb {
+  color: #f5f5f5;
+}
+
+[data-background="dark"] .jumbotron-1 .jumbotron .breadcrumb li, [data-background="dark"] .jumbotron-1 .jumbotron .breadcrumb a {
+  color: #f5f5f5;
+}
+
+[data-background="primary"] .jumbotron-1 {
+  background-color: #1a237e;
+  border-bottom: 1px solid #1a237e;
+  color: #f5f5f5;
+}
+
+[data-background="primary"] .jumbotron-1 a {
+  color: #f5f5f5;
+}
+
+[data-background="primary"] .jumbotron-1 .jumbotron {
+  background-color: #1a237e;
+  border-color: #1a237e;
+  color: #f5f5f5;
+}
+
+[data-background="primary"] .jumbotron-1 .jumbotron .breadcrumb {
+  color: #f5f5f5;
+}
+
+[data-background="primary"] .jumbotron-1 .jumbotron .breadcrumb li, [data-background="primary"] .jumbotron-1 .jumbotron .breadcrumb a {
+  color: #f5f5f5;
+}

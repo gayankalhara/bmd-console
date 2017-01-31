@@ -1,0 +1,271 @@
+#ui-elements-dropdowns .demo {
+  padding-bottom: 200px;
+}
+
+.dropdown .dropdown-item, .dropdown .dropdown-header,
+.btn-group .dropdown-item,
+.btn-group .dropdown-header {
+  padding: 12px;
+}
+
+.dropdown.dropdown-sm .dropdown-item, .dropdown.dropdown-sm .dropdown-header,
+.btn-group.dropdown-sm .dropdown-item,
+.btn-group.dropdown-sm .dropdown-header {
+  padding: 8px;
+  font-size: 14px;
+}
+
+.dropdown.dropdown-lg .dropdown-header,
+.dropdown.dropdown-lg .dropdown-item,
+.btn-group.dropdown-lg .dropdown-header,
+.btn-group.dropdown-lg .dropdown-item {
+  border: none;
+  padding: 16px;
+  font-size: 16px;
+}
+
+.dropdown .dropdown-menu,
+.btn-group .dropdown-menu {
+  left: 0;
+  right: auto;
+  padding: 0;
+  margin: 0;
+  border: none;
+  -webkit-transform-origin: 0 0;
+          transform-origin: 0 0;
+  box-shadow: 0px 2px 4px -1px rgba(0, 0, 0, 0.2), 0px 4px 5px 0px rgba(0, 0, 0, 0.14), 0px 1px 10px 0px rgba(0, 0, 0, 0.12);
+}
+
+.dropdown .dropdown-menu.from-left,
+.btn-group .dropdown-menu.from-left {
+  -webkit-transform-origin: 0 0;
+          transform-origin: 0 0;
+}
+
+.dropdown .dropdown-menu.from-center,
+.btn-group .dropdown-menu.from-center {
+  -webkit-transform-origin: 50% 50%;
+          transform-origin: 50% 50%;
+}
+
+.dropdown .dropdown-menu.from-right,
+.btn-group .dropdown-menu.from-right {
+  -webkit-transform-origin: 100% 0;
+          transform-origin: 100% 0;
+}
+
+.dropdown .dropdown-menu.from-top,
+.btn-group .dropdown-menu.from-top {
+  -webkit-transform-origin: 50% 0;
+          transform-origin: 50% 0;
+}
+
+.dropdown .dropdown-menu.dropdown-menu-left,
+.btn-group .dropdown-menu.dropdown-menu-left {
+  left: 0;
+  right: auto;
+}
+
+.dropdown .dropdown-menu.dropdown-menu-center,
+.btn-group .dropdown-menu.dropdown-menu-center {
+  left: 0;
+  right: 0;
+}
+
+.dropdown .dropdown-menu.dropdown-menu-center .dropdown-item,
+.btn-group .dropdown-menu.dropdown-menu-center .dropdown-item {
+  max-width: 100%;
+}
+
+.dropdown .dropdown-menu.dropdown-menu-right,
+.btn-group .dropdown-menu.dropdown-menu-right {
+  left: auto;
+  right: 0;
+}
+
+.dropdown .dropdown-menu .dropdown-divider,
+.btn-group .dropdown-menu .dropdown-divider {
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.dropup .dropdown-menu,
+.btn-group.dropup .dropdown-menu {
+  left: 0;
+  right: auto;
+  -webkit-transform-origin: 0 100%;
+          transform-origin: 0 100%;
+}
+
+.dropup .dropdown-menu.from-left,
+.btn-group.dropup .dropdown-menu.from-left {
+  -webkit-transform-origin: 0 100%;
+          transform-origin: 0 100%;
+}
+
+.dropup .dropdown-menu.from-center,
+.btn-group.dropup .dropdown-menu.from-center {
+  -webkit-transform-origin: 50% 100%;
+          transform-origin: 50% 100%;
+}
+
+.dropup .dropdown-menu.from-right,
+.btn-group.dropup .dropdown-menu.from-right {
+  -webkit-transform-origin: 100% 100%;
+          transform-origin: 100% 100%;
+}
+
+.dropdown:not(.open) .dropdown-menu {
+  visibility: hidden;
+  pointer-events: none;
+  opacity: 0;
+}
+
+.dropdown.open .dropdown-menu {
+  min-width: 200px;
+}
+
+.dropdown.open .dropdown-menu.dropdown-menu-cols {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  visibility: visible;
+  pointer-events: auto;
+  opacity: 1;
+  padding-top: 0;
+  padding-bottom: 0;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
+}
+
+.dropdown.open .dropdown-menu.dropdown-menu-cols.dropdown-cols-1 {
+  width: 212px;
+}
+
+.dropdown.open .dropdown-menu.dropdown-menu-cols.dropdown-cols-1 .dropdown-item {
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 212px;
+          flex: 0 0 212px;
+}
+
+.dropdown.open .dropdown-menu.dropdown-menu-cols.dropdown-cols-2 {
+  width: 412px;
+}
+
+.dropdown.open .dropdown-menu.dropdown-menu-cols.dropdown-cols-2 .dropdown-item {
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 206px;
+          flex: 0 0 206px;
+}
+
+.dropdown.open .dropdown-menu.dropdown-menu-cols.dropdown-cols-3 {
+  width: 612px;
+}
+
+.dropdown.open .dropdown-menu.dropdown-menu-cols.dropdown-cols-3 .dropdown-item {
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 204px;
+          flex: 0 0 204px;
+}
+
+.dropdown.open .dropdown-menu.dropdown-menu-cols.dropdown-cols-4 {
+  width: 812px;
+}
+
+.dropdown.open .dropdown-menu.dropdown-menu-cols.dropdown-cols-4 .dropdown-item {
+  display: inline;
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 203px;
+          flex: 0 0 203px;
+}
+
+[data-background="light"] .dropdown-menu {
+  background: #fff;
+  border-color: #fff;
+  color: #353535;
+}
+
+[data-background="light"] .dropdown-menu .dropdown-header {
+  color: #353535;
+}
+
+[data-background="light"] .dropdown-menu .dropdown-header:hover {
+  color: #353535;
+}
+
+[data-background="light"] .dropdown-menu .dropdown-divider {
+  background: #e6e6e6;
+}
+
+[data-background="light"] .dropdown-menu .dropdown-item {
+  background: #fff;
+  color: #353535;
+}
+
+[data-background="light"] .dropdown-menu .dropdown-item:hover {
+  background: #2684f5;
+  color: #fff;
+}
+
+[data-background="dark"] .dropdown-menu {
+  background: #2b2b2b;
+  border-color: #2b2b2b;
+  color: #f5f5f5;
+}
+
+[data-background="dark"] .dropdown-menu .dropdown-header {
+  color: white;
+}
+
+[data-background="dark"] .dropdown-menu .dropdown-header:hover {
+  color: #f5f5f5;
+}
+
+[data-background="dark"] .dropdown-menu .dropdown-divider {
+  background: #262626;
+}
+
+[data-background="dark"] .dropdown-menu .dropdown-item {
+  background: #2b2b2b;
+  color: #f5f5f5;
+}
+
+[data-background="dark"] .dropdown-menu .dropdown-item:hover {
+  background: #ff9800;
+  color: #fff;
+}
+
+[data-background="primary"] .dropdown-menu {
+  background: #1d288f;
+  border-color: #1d288f;
+  color: #f5f5f5;
+}
+
+[data-background="primary"] .dropdown-menu .dropdown-header {
+  color: white;
+}
+
+[data-background="primary"] .dropdown-menu .dropdown-header:hover {
+  color: #f5f5f5;
+}
+
+[data-background="primary"] .dropdown-menu .dropdown-divider {
+  background: #1c2586;
+}
+
+[data-background="primary"] .dropdown-menu .dropdown-item {
+  background: #1d288f;
+  color: #f5f5f5;
+}
+
+[data-background="primary"] .dropdown-menu .dropdown-item:hover {
+  background: #54b859;
+  color: #fff;
+}

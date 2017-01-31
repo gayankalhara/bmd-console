@@ -1,0 +1,59 @@
+[data-background="light"] pre, [data-background="light"] code {
+  background-color: whitesmoke;
+  color: #2684f5;
+  border-radius: 5px;
+}
+
+.widget [data-background="light"] pre, .widget [data-background="light"] code {
+  background-color: whitesmoke;
+}
+
+[data-background="light"] pre {
+  padding: 5px;
+}
+
+[data-background="light"] .tab-content.highlight {
+  padding: 0;
+  margin-top: 3px;
+  background-color: whitesmoke;
+}
+
+[data-background="dark"] pre, [data-background="dark"] code {
+  background-color: #1c1c1c;
+  color: #ff9800;
+  border-radius: 5px;
+}
+
+.widget [data-background="dark"] pre, .widget [data-background="dark"] code {
+  background-color: #1c1c1c;
+}
+
+[data-background="dark"] pre {
+  padding: 5px;
+}
+
+[data-background="dark"] .tab-content.highlight {
+  padding: 0;
+  margin-top: 3px;
+  background-color: #1c1c1c;
+}
+
+[data-background="primary"] pre, [data-background="primary"] code {
+  background-color: #182176;
+  color: #54b859;
+  border-radius: 5px;
+}
+
+.widget [data-background="primary"] pre, .widget [data-background="primary"] code {
+  background-color: #182176;
+}
+
+[data-background="primary"] pre {
+  padding: 5px;
+}
+
+[data-background="primary"] .tab-content.highlight {
+  padding: 0;
+  margin-top: 3px;
+  background-color: #182176;
+}

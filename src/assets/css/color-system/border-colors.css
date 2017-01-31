@@ -1,0 +1,2375 @@
+.border-color-white {
+  color: #ffffff !important;
+}
+
+.border-color-hover-white:hover, .border-color-hover-white:active, .border-color-hover-white:focus {
+  color: #ffffff !important;
+}
+
+.border-color-black {
+  color: #000000 !important;
+}
+
+.border-color-hover-black:hover, .border-color-hover-black:active, .border-color-hover-black:focus {
+  color: #000000 !important;
+}
+
+.border-color-red-50 {
+  color: #ffebee !important;
+}
+
+.border-color-hover-red-50:hover, .border-color-hover-red-50:active, .border-color-hover-red-50:focus {
+  color: #ffebee !important;
+}
+
+.border-color-red-100 {
+  color: #ffcdd2 !important;
+}
+
+.border-color-hover-red-100:hover, .border-color-hover-red-100:active, .border-color-hover-red-100:focus {
+  color: #ffcdd2 !important;
+}
+
+.border-color-red-200 {
+  color: #ef9a9a !important;
+}
+
+.border-color-hover-red-200:hover, .border-color-hover-red-200:active, .border-color-hover-red-200:focus {
+  color: #ef9a9a !important;
+}
+
+.border-color-red-300 {
+  color: #e57373 !important;
+}
+
+.border-color-hover-red-300:hover, .border-color-hover-red-300:active, .border-color-hover-red-300:focus {
+  color: #e57373 !important;
+}
+
+.border-color-red-400 {
+  color: #ef5350 !important;
+}
+
+.border-color-hover-red-400:hover, .border-color-hover-red-400:active, .border-color-hover-red-400:focus {
+  color: #ef5350 !important;
+}
+
+.border-color-red-500 {
+  color: #f44336 !important;
+}
+
+.border-color-hover-red-500:hover, .border-color-hover-red-500:active, .border-color-hover-red-500:focus {
+  color: #f44336 !important;
+}
+
+.border-color-red-600 {
+  color: #e53935 !important;
+}
+
+.border-color-hover-red-600:hover, .border-color-hover-red-600:active, .border-color-hover-red-600:focus {
+  color: #e53935 !important;
+}
+
+.border-color-red-700 {
+  color: #d32f2f !important;
+}
+
+.border-color-hover-red-700:hover, .border-color-hover-red-700:active, .border-color-hover-red-700:focus {
+  color: #d32f2f !important;
+}
+
+.border-color-red-800 {
+  color: #c62828 !important;
+}
+
+.border-color-hover-red-800:hover, .border-color-hover-red-800:active, .border-color-hover-red-800:focus {
+  color: #c62828 !important;
+}
+
+.border-color-red-900 {
+  color: #b71c1c !important;
+}
+
+.border-color-hover-red-900:hover, .border-color-hover-red-900:active, .border-color-hover-red-900:focus {
+  color: #b71c1c !important;
+}
+
+.border-color-red-a100 {
+  color: #ff8a80 !important;
+}
+
+.border-color-hover-red-a100:hover, .border-color-hover-red-a100:active, .border-color-hover-red-a100:focus {
+  color: #ff8a80 !important;
+}
+
+.border-color-red-a200 {
+  color: #ff5252 !important;
+}
+
+.border-color-hover-red-a200:hover, .border-color-hover-red-a200:active, .border-color-hover-red-a200:focus {
+  color: #ff5252 !important;
+}
+
+.border-color-red-a400 {
+  color: #ff1744 !important;
+}
+
+.border-color-hover-red-a400:hover, .border-color-hover-red-a400:active, .border-color-hover-red-a400:focus {
+  color: #ff1744 !important;
+}
+
+.border-color-red-a700 {
+  color: #d50000 !important;
+}
+
+.border-color-hover-red-a700:hover, .border-color-hover-red-a700:active, .border-color-hover-red-a700:focus {
+  color: #d50000 !important;
+}
+
+.border-color-pink-50 {
+  color: #fce4ec !important;
+}
+
+.border-color-hover-pink-50:hover, .border-color-hover-pink-50:active, .border-color-hover-pink-50:focus {
+  color: #fce4ec !important;
+}
+
+.border-color-pink-100 {
+  color: #f8bbd0 !important;
+}
+
+.border-color-hover-pink-100:hover, .border-color-hover-pink-100:active, .border-color-hover-pink-100:focus {
+  color: #f8bbd0 !important;
+}
+
+.border-color-pink-200 {
+  color: #f48fb1 !important;
+}
+
+.border-color-hover-pink-200:hover, .border-color-hover-pink-200:active, .border-color-hover-pink-200:focus {
+  color: #f48fb1 !important;
+}
+
+.border-color-pink-300 {
+  color: #f06292 !important;
+}
+
+.border-color-hover-pink-300:hover, .border-color-hover-pink-300:active, .border-color-hover-pink-300:focus {
+  color: #f06292 !important;
+}
+
+.border-color-pink-400 {
+  color: #ec407a !important;
+}
+
+.border-color-hover-pink-400:hover, .border-color-hover-pink-400:active, .border-color-hover-pink-400:focus {
+  color: #ec407a !important;
+}
+
+.border-color-pink-500 {
+  color: #e91e63 !important;
+}
+
+.border-color-hover-pink-500:hover, .border-color-hover-pink-500:active, .border-color-hover-pink-500:focus {
+  color: #e91e63 !important;
+}
+
+.border-color-pink-600 {
+  color: #d81b60 !important;
+}
+
+.border-color-hover-pink-600:hover, .border-color-hover-pink-600:active, .border-color-hover-pink-600:focus {
+  color: #d81b60 !important;
+}
+
+.border-color-pink-700 {
+  color: #c2185b !important;
+}
+
+.border-color-hover-pink-700:hover, .border-color-hover-pink-700:active, .border-color-hover-pink-700:focus {
+  color: #c2185b !important;
+}
+
+.border-color-pink-800 {
+  color: #ad1457 !important;
+}
+
+.border-color-hover-pink-800:hover, .border-color-hover-pink-800:active, .border-color-hover-pink-800:focus {
+  color: #ad1457 !important;
+}
+
+.border-color-pink-900 {
+  color: #880e4f !important;
+}
+
+.border-color-hover-pink-900:hover, .border-color-hover-pink-900:active, .border-color-hover-pink-900:focus {
+  color: #880e4f !important;
+}
+
+.border-color-pink-a100 {
+  color: #ff80ab !important;
+}
+
+.border-color-hover-pink-a100:hover, .border-color-hover-pink-a100:active, .border-color-hover-pink-a100:focus {
+  color: #ff80ab !important;
+}
+
+.border-color-pink-a200 {
+  color: #ff4081 !important;
+}
+
+.border-color-hover-pink-a200:hover, .border-color-hover-pink-a200:active, .border-color-hover-pink-a200:focus {
+  color: #ff4081 !important;
+}
+
+.border-color-pink-a400 {
+  color: #f50057 !important;
+}
+
+.border-color-hover-pink-a400:hover, .border-color-hover-pink-a400:active, .border-color-hover-pink-a400:focus {
+  color: #f50057 !important;
+}
+
+.border-color-pink-a700 {
+  color: #c51162 !important;
+}
+
+.border-color-hover-pink-a700:hover, .border-color-hover-pink-a700:active, .border-color-hover-pink-a700:focus {
+  color: #c51162 !important;
+}
+
+.border-color-purple-50 {
+  color: #f3e5f5 !important;
+}
+
+.border-color-hover-purple-50:hover, .border-color-hover-purple-50:active, .border-color-hover-purple-50:focus {
+  color: #f3e5f5 !important;
+}
+
+.border-color-purple-100 {
+  color: #e1bee7 !important;
+}
+
+.border-color-hover-purple-100:hover, .border-color-hover-purple-100:active, .border-color-hover-purple-100:focus {
+  color: #e1bee7 !important;
+}
+
+.border-color-purple-200 {
+  color: #ce93d8 !important;
+}
+
+.border-color-hover-purple-200:hover, .border-color-hover-purple-200:active, .border-color-hover-purple-200:focus {
+  color: #ce93d8 !important;
+}
+
+.border-color-purple-300 {
+  color: #ba68c8 !important;
+}
+
+.border-color-hover-purple-300:hover, .border-color-hover-purple-300:active, .border-color-hover-purple-300:focus {
+  color: #ba68c8 !important;
+}
+
+.border-color-purple-400 {
+  color: #ab47bc !important;
+}
+
+.border-color-hover-purple-400:hover, .border-color-hover-purple-400:active, .border-color-hover-purple-400:focus {
+  color: #ab47bc !important;
+}
+
+.border-color-purple-500 {
+  color: #9c27b0 !important;
+}
+
+.border-color-hover-purple-500:hover, .border-color-hover-purple-500:active, .border-color-hover-purple-500:focus {
+  color: #9c27b0 !important;
+}
+
+.border-color-purple-600 {
+  color: #8e24aa !important;
+}
+
+.border-color-hover-purple-600:hover, .border-color-hover-purple-600:active, .border-color-hover-purple-600:focus {
+  color: #8e24aa !important;
+}
+
+.border-color-purple-700 {
+  color: #7b1fa2 !important;
+}
+
+.border-color-hover-purple-700:hover, .border-color-hover-purple-700:active, .border-color-hover-purple-700:focus {
+  color: #7b1fa2 !important;
+}
+
+.border-color-purple-800 {
+  color: #6a1b9a !important;
+}
+
+.border-color-hover-purple-800:hover, .border-color-hover-purple-800:active, .border-color-hover-purple-800:focus {
+  color: #6a1b9a !important;
+}
+
+.border-color-purple-900 {
+  color: #4a148c !important;
+}
+
+.border-color-hover-purple-900:hover, .border-color-hover-purple-900:active, .border-color-hover-purple-900:focus {
+  color: #4a148c !important;
+}
+
+.border-color-purple-a100 {
+  color: #ea80fc !important;
+}
+
+.border-color-hover-purple-a100:hover, .border-color-hover-purple-a100:active, .border-color-hover-purple-a100:focus {
+  color: #ea80fc !important;
+}
+
+.border-color-purple-a200 {
+  color: #e040fb !important;
+}
+
+.border-color-hover-purple-a200:hover, .border-color-hover-purple-a200:active, .border-color-hover-purple-a200:focus {
+  color: #e040fb !important;
+}
+
+.border-color-purple-a400 {
+  color: #d500f9 !important;
+}
+
+.border-color-hover-purple-a400:hover, .border-color-hover-purple-a400:active, .border-color-hover-purple-a400:focus {
+  color: #d500f9 !important;
+}
+
+.border-color-purple-a700 {
+  color: #aa00ff !important;
+}
+
+.border-color-hover-purple-a700:hover, .border-color-hover-purple-a700:active, .border-color-hover-purple-a700:focus {
+  color: #aa00ff !important;
+}
+
+.border-color-deep-purple-50 {
+  color: #ede7f6 !important;
+}
+
+.border-color-hover-deep-purple-50:hover, .border-color-hover-deep-purple-50:active, .border-color-hover-deep-purple-50:focus {
+  color: #ede7f6 !important;
+}
+
+.border-color-deep-purple-100 {
+  color: #d1c4e9 !important;
+}
+
+.border-color-hover-deep-purple-100:hover, .border-color-hover-deep-purple-100:active, .border-color-hover-deep-purple-100:focus {
+  color: #d1c4e9 !important;
+}
+
+.border-color-deep-purple-200 {
+  color: #b39ddb !important;
+}
+
+.border-color-hover-deep-purple-200:hover, .border-color-hover-deep-purple-200:active, .border-color-hover-deep-purple-200:focus {
+  color: #b39ddb !important;
+}
+
+.border-color-deep-purple-300 {
+  color: #9575cd !important;
+}
+
+.border-color-hover-deep-purple-300:hover, .border-color-hover-deep-purple-300:active, .border-color-hover-deep-purple-300:focus {
+  color: #9575cd !important;
+}
+
+.border-color-deep-purple-400 {
+  color: #7e57c2 !important;
+}
+
+.border-color-hover-deep-purple-400:hover, .border-color-hover-deep-purple-400:active, .border-color-hover-deep-purple-400:focus {
+  color: #7e57c2 !important;
+}
+
+.border-color-deep-purple-500 {
+  color: #673ab7 !important;
+}
+
+.border-color-hover-deep-purple-500:hover, .border-color-hover-deep-purple-500:active, .border-color-hover-deep-purple-500:focus {
+  color: #673ab7 !important;
+}
+
+.border-color-deep-purple-600 {
+  color: #5e35b1 !important;
+}
+
+.border-color-hover-deep-purple-600:hover, .border-color-hover-deep-purple-600:active, .border-color-hover-deep-purple-600:focus {
+  color: #5e35b1 !important;
+}
+
+.border-color-deep-purple-700 {
+  color: #512da8 !important;
+}
+
+.border-color-hover-deep-purple-700:hover, .border-color-hover-deep-purple-700:active, .border-color-hover-deep-purple-700:focus {
+  color: #512da8 !important;
+}
+
+.border-color-deep-purple-800 {
+  color: #4527a0 !important;
+}
+
+.border-color-hover-deep-purple-800:hover, .border-color-hover-deep-purple-800:active, .border-color-hover-deep-purple-800:focus {
+  color: #4527a0 !important;
+}
+
+.border-color-deep-purple-900 {
+  color: #311b92 !important;
+}
+
+.border-color-hover-deep-purple-900:hover, .border-color-hover-deep-purple-900:active, .border-color-hover-deep-purple-900:focus {
+  color: #311b92 !important;
+}
+
+.border-color-deep-purple-a100 {
+  color: #b388ff !important;
+}
+
+.border-color-hover-deep-purple-a100:hover, .border-color-hover-deep-purple-a100:active, .border-color-hover-deep-purple-a100:focus {
+  color: #b388ff !important;
+}
+
+.border-color-deep-purple-a200 {
+  color: #7c4dff !important;
+}
+
+.border-color-hover-deep-purple-a200:hover, .border-color-hover-deep-purple-a200:active, .border-color-hover-deep-purple-a200:focus {
+  color: #7c4dff !important;
+}
+
+.border-color-deep-purple-a400 {
+  color: #651fff !important;
+}
+
+.border-color-hover-deep-purple-a400:hover, .border-color-hover-deep-purple-a400:active, .border-color-hover-deep-purple-a400:focus {
+  color: #651fff !important;
+}
+
+.border-color-deep-purple-a700 {
+  color: #6200ea !important;
+}
+
+.border-color-hover-deep-purple-a700:hover, .border-color-hover-deep-purple-a700:active, .border-color-hover-deep-purple-a700:focus {
+  color: #6200ea !important;
+}
+
+.border-color-indigo-50 {
+  color: #e8eaf6 !important;
+}
+
+.border-color-hover-indigo-50:hover, .border-color-hover-indigo-50:active, .border-color-hover-indigo-50:focus {
+  color: #e8eaf6 !important;
+}
+
+.border-color-indigo-100 {
+  color: #c5cae9 !important;
+}
+
+.border-color-hover-indigo-100:hover, .border-color-hover-indigo-100:active, .border-color-hover-indigo-100:focus {
+  color: #c5cae9 !important;
+}
+
+.border-color-indigo-200 {
+  color: #9fa8da !important;
+}
+
+.border-color-hover-indigo-200:hover, .border-color-hover-indigo-200:active, .border-color-hover-indigo-200:focus {
+  color: #9fa8da !important;
+}
+
+.border-color-indigo-300 {
+  color: #7986cb !important;
+}
+
+.border-color-hover-indigo-300:hover, .border-color-hover-indigo-300:active, .border-color-hover-indigo-300:focus {
+  color: #7986cb !important;
+}
+
+.border-color-indigo-400 {
+  color: #5c6bc0 !important;
+}
+
+.border-color-hover-indigo-400:hover, .border-color-hover-indigo-400:active, .border-color-hover-indigo-400:focus {
+  color: #5c6bc0 !important;
+}
+
+.border-color-indigo-500 {
+  color: #3f51b5 !important;
+}
+
+.border-color-hover-indigo-500:hover, .border-color-hover-indigo-500:active, .border-color-hover-indigo-500:focus {
+  color: #3f51b5 !important;
+}
+
+.border-color-indigo-600 {
+  color: #3949ab !important;
+}
+
+.border-color-hover-indigo-600:hover, .border-color-hover-indigo-600:active, .border-color-hover-indigo-600:focus {
+  color: #3949ab !important;
+}
+
+.border-color-indigo-700 {
+  color: #303f9f !important;
+}
+
+.border-color-hover-indigo-700:hover, .border-color-hover-indigo-700:active, .border-color-hover-indigo-700:focus {
+  color: #303f9f !important;
+}
+
+.border-color-indigo-800 {
+  color: #283593 !important;
+}
+
+.border-color-hover-indigo-800:hover, .border-color-hover-indigo-800:active, .border-color-hover-indigo-800:focus {
+  color: #283593 !important;
+}
+
+.border-color-indigo-900 {
+  color: #1a237e !important;
+}
+
+.border-color-hover-indigo-900:hover, .border-color-hover-indigo-900:active, .border-color-hover-indigo-900:focus {
+  color: #1a237e !important;
+}
+
+.border-color-indigo-a100 {
+  color: #8c9eff !important;
+}
+
+.border-color-hover-indigo-a100:hover, .border-color-hover-indigo-a100:active, .border-color-hover-indigo-a100:focus {
+  color: #8c9eff !important;
+}
+
+.border-color-indigo-a200 {
+  color: #536dfe !important;
+}
+
+.border-color-hover-indigo-a200:hover, .border-color-hover-indigo-a200:active, .border-color-hover-indigo-a200:focus {
+  color: #536dfe !important;
+}
+
+.border-color-indigo-a400 {
+  color: #3d5afe !important;
+}
+
+.border-color-hover-indigo-a400:hover, .border-color-hover-indigo-a400:active, .border-color-hover-indigo-a400:focus {
+  color: #3d5afe !important;
+}
+
+.border-color-indigo-a700 {
+  color: #2684f5 !important;
+}
+
+.border-color-hover-indigo-a700:hover, .border-color-hover-indigo-a700:active, .border-color-hover-indigo-a700:focus {
+  color: #2684f5 !important;
+}
+
+.border-color-blue-50 {
+  color: #e3f2fd !important;
+}
+
+.border-color-hover-blue-50:hover, .border-color-hover-blue-50:active, .border-color-hover-blue-50:focus {
+  color: #e3f2fd !important;
+}
+
+.border-color-blue-100 {
+  color: #bbdefb !important;
+}
+
+.border-color-hover-blue-100:hover, .border-color-hover-blue-100:active, .border-color-hover-blue-100:focus {
+  color: #bbdefb !important;
+}
+
+.border-color-blue-200 {
+  color: #90caf9 !important;
+}
+
+.border-color-hover-blue-200:hover, .border-color-hover-blue-200:active, .border-color-hover-blue-200:focus {
+  color: #90caf9 !important;
+}
+
+.border-color-blue-300 {
+  color: #64b5f6 !important;
+}
+
+.border-color-hover-blue-300:hover, .border-color-hover-blue-300:active, .border-color-hover-blue-300:focus {
+  color: #64b5f6 !important;
+}
+
+.border-color-blue-400 {
+  color: #42a5f5 !important;
+}
+
+.border-color-hover-blue-400:hover, .border-color-hover-blue-400:active, .border-color-hover-blue-400:focus {
+  color: #42a5f5 !important;
+}
+
+.border-color-blue-500 {
+  color: #2196f3 !important;
+}
+
+.border-color-hover-blue-500:hover, .border-color-hover-blue-500:active, .border-color-hover-blue-500:focus {
+  color: #2196f3 !important;
+}
+
+.border-color-blue-600 {
+  color: #1e88e5 !important;
+}
+
+.border-color-hover-blue-600:hover, .border-color-hover-blue-600:active, .border-color-hover-blue-600:focus {
+  color: #1e88e5 !important;
+}
+
+.border-color-blue-700 {
+  color: #1976d2 !important;
+}
+
+.border-color-hover-blue-700:hover, .border-color-hover-blue-700:active, .border-color-hover-blue-700:focus {
+  color: #1976d2 !important;
+}
+
+.border-color-blue-800 {
+  color: #1565c0 !important;
+}
+
+.border-color-hover-blue-800:hover, .border-color-hover-blue-800:active, .border-color-hover-blue-800:focus {
+  color: #1565c0 !important;
+}
+
+.border-color-blue-900 {
+  color: #0d47a1 !important;
+}
+
+.border-color-hover-blue-900:hover, .border-color-hover-blue-900:active, .border-color-hover-blue-900:focus {
+  color: #0d47a1 !important;
+}
+
+.border-color-blue-a100 {
+  color: #82b1ff !important;
+}
+
+.border-color-hover-blue-a100:hover, .border-color-hover-blue-a100:active, .border-color-hover-blue-a100:focus {
+  color: #82b1ff !important;
+}
+
+.border-color-blue-a200 {
+  color: #448aff !important;
+}
+
+.border-color-hover-blue-a200:hover, .border-color-hover-blue-a200:active, .border-color-hover-blue-a200:focus {
+  color: #448aff !important;
+}
+
+.border-color-blue-a400 {
+  color: #2979ff !important;
+}
+
+.border-color-hover-blue-a400:hover, .border-color-hover-blue-a400:active, .border-color-hover-blue-a400:focus {
+  color: #2979ff !important;
+}
+
+.border-color-blue-a700 {
+  color: #2962ff !important;
+}
+
+.border-color-hover-blue-a700:hover, .border-color-hover-blue-a700:active, .border-color-hover-blue-a700:focus {
+  color: #2962ff !important;
+}
+
+.border-color-light-blue-50 {
+  color: #e1f5fe !important;
+}
+
+.border-color-hover-light-blue-50:hover, .border-color-hover-light-blue-50:active, .border-color-hover-light-blue-50:focus {
+  color: #e1f5fe !important;
+}
+
+.border-color-light-blue-100 {
+  color: #b3e5fc !important;
+}
+
+.border-color-hover-light-blue-100:hover, .border-color-hover-light-blue-100:active, .border-color-hover-light-blue-100:focus {
+  color: #b3e5fc !important;
+}
+
+.border-color-light-blue-200 {
+  color: #81d4fa !important;
+}
+
+.border-color-hover-light-blue-200:hover, .border-color-hover-light-blue-200:active, .border-color-hover-light-blue-200:focus {
+  color: #81d4fa !important;
+}
+
+.border-color-light-blue-300 {
+  color: #4fc3f7 !important;
+}
+
+.border-color-hover-light-blue-300:hover, .border-color-hover-light-blue-300:active, .border-color-hover-light-blue-300:focus {
+  color: #4fc3f7 !important;
+}
+
+.border-color-light-blue-400 {
+  color: #29b6f6 !important;
+}
+
+.border-color-hover-light-blue-400:hover, .border-color-hover-light-blue-400:active, .border-color-hover-light-blue-400:focus {
+  color: #29b6f6 !important;
+}
+
+.border-color-light-blue-500 {
+  color: #03a9f4 !important;
+}
+
+.border-color-hover-light-blue-500:hover, .border-color-hover-light-blue-500:active, .border-color-hover-light-blue-500:focus {
+  color: #03a9f4 !important;
+}
+
+.border-color-light-blue-600 {
+  color: #039be5 !important;
+}
+
+.border-color-hover-light-blue-600:hover, .border-color-hover-light-blue-600:active, .border-color-hover-light-blue-600:focus {
+  color: #039be5 !important;
+}
+
+.border-color-light-blue-700 {
+  color: #0288d1 !important;
+}
+
+.border-color-hover-light-blue-700:hover, .border-color-hover-light-blue-700:active, .border-color-hover-light-blue-700:focus {
+  color: #0288d1 !important;
+}
+
+.border-color-light-blue-800 {
+  color: #0277bd !important;
+}
+
+.border-color-hover-light-blue-800:hover, .border-color-hover-light-blue-800:active, .border-color-hover-light-blue-800:focus {
+  color: #0277bd !important;
+}
+
+.border-color-light-blue-900 {
+  color: #01579b !important;
+}
+
+.border-color-hover-light-blue-900:hover, .border-color-hover-light-blue-900:active, .border-color-hover-light-blue-900:focus {
+  color: #01579b !important;
+}
+
+.border-color-light-blue-a100 {
+  color: #80d8ff !important;
+}
+
+.border-color-hover-light-blue-a100:hover, .border-color-hover-light-blue-a100:active, .border-color-hover-light-blue-a100:focus {
+  color: #80d8ff !important;
+}
+
+.border-color-light-blue-a200 {
+  color: #40c4ff !important;
+}
+
+.border-color-hover-light-blue-a200:hover, .border-color-hover-light-blue-a200:active, .border-color-hover-light-blue-a200:focus {
+  color: #40c4ff !important;
+}
+
+.border-color-light-blue-a400 {
+  color: #00b0ff !important;
+}
+
+.border-color-hover-light-blue-a400:hover, .border-color-hover-light-blue-a400:active, .border-color-hover-light-blue-a400:focus {
+  color: #00b0ff !important;
+}
+
+.border-color-light-blue-a700 {
+  color: #0091ea !important;
+}
+
+.border-color-hover-light-blue-a700:hover, .border-color-hover-light-blue-a700:active, .border-color-hover-light-blue-a700:focus {
+  color: #0091ea !important;
+}
+
+.border-color-cyan-50 {
+  color: #e0f7fa !important;
+}
+
+.border-color-hover-cyan-50:hover, .border-color-hover-cyan-50:active, .border-color-hover-cyan-50:focus {
+  color: #e0f7fa !important;
+}
+
+.border-color-cyan-100 {
+  color: #b2ebf2 !important;
+}
+
+.border-color-hover-cyan-100:hover, .border-color-hover-cyan-100:active, .border-color-hover-cyan-100:focus {
+  color: #b2ebf2 !important;
+}
+
+.border-color-cyan-200 {
+  color: #80deea !important;
+}
+
+.border-color-hover-cyan-200:hover, .border-color-hover-cyan-200:active, .border-color-hover-cyan-200:focus {
+  color: #80deea !important;
+}
+
+.border-color-cyan-300 {
+  color: #4dd0e1 !important;
+}
+
+.border-color-hover-cyan-300:hover, .border-color-hover-cyan-300:active, .border-color-hover-cyan-300:focus {
+  color: #4dd0e1 !important;
+}
+
+.border-color-cyan-400 {
+  color: #26c6da !important;
+}
+
+.border-color-hover-cyan-400:hover, .border-color-hover-cyan-400:active, .border-color-hover-cyan-400:focus {
+  color: #26c6da !important;
+}
+
+.border-color-cyan-500 {
+  color: #00bcd4 !important;
+}
+
+.border-color-hover-cyan-500:hover, .border-color-hover-cyan-500:active, .border-color-hover-cyan-500:focus {
+  color: #00bcd4 !important;
+}
+
+.border-color-cyan-600 {
+  color: #00acc1 !important;
+}
+
+.border-color-hover-cyan-600:hover, .border-color-hover-cyan-600:active, .border-color-hover-cyan-600:focus {
+  color: #00acc1 !important;
+}
+
+.border-color-cyan-700 {
+  color: #0097a7 !important;
+}
+
+.border-color-hover-cyan-700:hover, .border-color-hover-cyan-700:active, .border-color-hover-cyan-700:focus {
+  color: #0097a7 !important;
+}
+
+.border-color-cyan-800 {
+  color: #00838f !important;
+}
+
+.border-color-hover-cyan-800:hover, .border-color-hover-cyan-800:active, .border-color-hover-cyan-800:focus {
+  color: #00838f !important;
+}
+
+.border-color-cyan-900 {
+  color: #006064 !important;
+}
+
+.border-color-hover-cyan-900:hover, .border-color-hover-cyan-900:active, .border-color-hover-cyan-900:focus {
+  color: #006064 !important;
+}
+
+.border-color-cyan-a100 {
+  color: #84ffff !important;
+}
+
+.border-color-hover-cyan-a100:hover, .border-color-hover-cyan-a100:active, .border-color-hover-cyan-a100:focus {
+  color: #84ffff !important;
+}
+
+.border-color-cyan-a200 {
+  color: #18ffff !important;
+}
+
+.border-color-hover-cyan-a200:hover, .border-color-hover-cyan-a200:active, .border-color-hover-cyan-a200:focus {
+  color: #18ffff !important;
+}
+
+.border-color-cyan-a400 {
+  color: #00e5ff !important;
+}
+
+.border-color-hover-cyan-a400:hover, .border-color-hover-cyan-a400:active, .border-color-hover-cyan-a400:focus {
+  color: #00e5ff !important;
+}
+
+.border-color-cyan-a700 {
+  color: #00b8d4 !important;
+}
+
+.border-color-hover-cyan-a700:hover, .border-color-hover-cyan-a700:active, .border-color-hover-cyan-a700:focus {
+  color: #00b8d4 !important;
+}
+
+.border-color-teal-50 {
+  color: #e0f2f1 !important;
+}
+
+.border-color-hover-teal-50:hover, .border-color-hover-teal-50:active, .border-color-hover-teal-50:focus {
+  color: #e0f2f1 !important;
+}
+
+.border-color-teal-100 {
+  color: #b2dfdb !important;
+}
+
+.border-color-hover-teal-100:hover, .border-color-hover-teal-100:active, .border-color-hover-teal-100:focus {
+  color: #b2dfdb !important;
+}
+
+.border-color-teal-200 {
+  color: #80cbc4 !important;
+}
+
+.border-color-hover-teal-200:hover, .border-color-hover-teal-200:active, .border-color-hover-teal-200:focus {
+  color: #80cbc4 !important;
+}
+
+.border-color-teal-300 {
+  color: #4db6ac !important;
+}
+
+.border-color-hover-teal-300:hover, .border-color-hover-teal-300:active, .border-color-hover-teal-300:focus {
+  color: #4db6ac !important;
+}
+
+.border-color-teal-400 {
+  color: #26a69a !important;
+}
+
+.border-color-hover-teal-400:hover, .border-color-hover-teal-400:active, .border-color-hover-teal-400:focus {
+  color: #26a69a !important;
+}
+
+.border-color-teal-500 {
+  color: #009688 !important;
+}
+
+.border-color-hover-teal-500:hover, .border-color-hover-teal-500:active, .border-color-hover-teal-500:focus {
+  color: #009688 !important;
+}
+
+.border-color-teal-600 {
+  color: #00897b !important;
+}
+
+.border-color-hover-teal-600:hover, .border-color-hover-teal-600:active, .border-color-hover-teal-600:focus {
+  color: #00897b !important;
+}
+
+.border-color-teal-700 {
+  color: #00796b !important;
+}
+
+.border-color-hover-teal-700:hover, .border-color-hover-teal-700:active, .border-color-hover-teal-700:focus {
+  color: #00796b !important;
+}
+
+.border-color-teal-800 {
+  color: #00695c !important;
+}
+
+.border-color-hover-teal-800:hover, .border-color-hover-teal-800:active, .border-color-hover-teal-800:focus {
+  color: #00695c !important;
+}
+
+.border-color-teal-900 {
+  color: #004d40 !important;
+}
+
+.border-color-hover-teal-900:hover, .border-color-hover-teal-900:active, .border-color-hover-teal-900:focus {
+  color: #004d40 !important;
+}
+
+.border-color-teal-a100 {
+  color: #a7ffeb !important;
+}
+
+.border-color-hover-teal-a100:hover, .border-color-hover-teal-a100:active, .border-color-hover-teal-a100:focus {
+  color: #a7ffeb !important;
+}
+
+.border-color-teal-a200 {
+  color: #64ffda !important;
+}
+
+.border-color-hover-teal-a200:hover, .border-color-hover-teal-a200:active, .border-color-hover-teal-a200:focus {
+  color: #64ffda !important;
+}
+
+.border-color-teal-a400 {
+  color: #1de9b6 !important;
+}
+
+.border-color-hover-teal-a400:hover, .border-color-hover-teal-a400:active, .border-color-hover-teal-a400:focus {
+  color: #1de9b6 !important;
+}
+
+.border-color-teal-a700 {
+  color: #00bfa5 !important;
+}
+
+.border-color-hover-teal-a700:hover, .border-color-hover-teal-a700:active, .border-color-hover-teal-a700:focus {
+  color: #00bfa5 !important;
+}
+
+.border-color-green-50 {
+  color: #e8f5e9 !important;
+}
+
+.border-color-hover-green-50:hover, .border-color-hover-green-50:active, .border-color-hover-green-50:focus {
+  color: #e8f5e9 !important;
+}
+
+.border-color-green-100 {
+  color: #c8e6c9 !important;
+}
+
+.border-color-hover-green-100:hover, .border-color-hover-green-100:active, .border-color-hover-green-100:focus {
+  color: #c8e6c9 !important;
+}
+
+.border-color-green-200 {
+  color: #a5d6a7 !important;
+}
+
+.border-color-hover-green-200:hover, .border-color-hover-green-200:active, .border-color-hover-green-200:focus {
+  color: #a5d6a7 !important;
+}
+
+.border-color-green-300 {
+  color: #81c784 !important;
+}
+
+.border-color-hover-green-300:hover, .border-color-hover-green-300:active, .border-color-hover-green-300:focus {
+  color: #81c784 !important;
+}
+
+.border-color-green-400 {
+  color: #66bb6a !important;
+}
+
+.border-color-hover-green-400:hover, .border-color-hover-green-400:active, .border-color-hover-green-400:focus {
+  color: #66bb6a !important;
+}
+
+.border-color-green-500 {
+  color: #4caf50 !important;
+}
+
+.border-color-hover-green-500:hover, .border-color-hover-green-500:active, .border-color-hover-green-500:focus {
+  color: #4caf50 !important;
+}
+
+.border-color-green-600 {
+  color: #43a047 !important;
+}
+
+.border-color-hover-green-600:hover, .border-color-hover-green-600:active, .border-color-hover-green-600:focus {
+  color: #43a047 !important;
+}
+
+.border-color-green-700 {
+  color: #388e3c !important;
+}
+
+.border-color-hover-green-700:hover, .border-color-hover-green-700:active, .border-color-hover-green-700:focus {
+  color: #388e3c !important;
+}
+
+.border-color-green-800 {
+  color: #2e7d32 !important;
+}
+
+.border-color-hover-green-800:hover, .border-color-hover-green-800:active, .border-color-hover-green-800:focus {
+  color: #2e7d32 !important;
+}
+
+.border-color-green-900 {
+  color: #1b5e20 !important;
+}
+
+.border-color-hover-green-900:hover, .border-color-hover-green-900:active, .border-color-hover-green-900:focus {
+  color: #1b5e20 !important;
+}
+
+.border-color-green-a100 {
+  color: #b9f6ca !important;
+}
+
+.border-color-hover-green-a100:hover, .border-color-hover-green-a100:active, .border-color-hover-green-a100:focus {
+  color: #b9f6ca !important;
+}
+
+.border-color-green-a200 {
+  color: #69f0ae !important;
+}
+
+.border-color-hover-green-a200:hover, .border-color-hover-green-a200:active, .border-color-hover-green-a200:focus {
+  color: #69f0ae !important;
+}
+
+.border-color-green-a400 {
+  color: #00e676 !important;
+}
+
+.border-color-hover-green-a400:hover, .border-color-hover-green-a400:active, .border-color-hover-green-a400:focus {
+  color: #00e676 !important;
+}
+
+.border-color-green-a700 {
+  color: #00c853 !important;
+}
+
+.border-color-hover-green-a700:hover, .border-color-hover-green-a700:active, .border-color-hover-green-a700:focus {
+  color: #00c853 !important;
+}
+
+.border-color-light-green-50 {
+  color: #f1f8e9 !important;
+}
+
+.border-color-hover-light-green-50:hover, .border-color-hover-light-green-50:active, .border-color-hover-light-green-50:focus {
+  color: #f1f8e9 !important;
+}
+
+.border-color-light-green-100 {
+  color: #dcedc8 !important;
+}
+
+.border-color-hover-light-green-100:hover, .border-color-hover-light-green-100:active, .border-color-hover-light-green-100:focus {
+  color: #dcedc8 !important;
+}
+
+.border-color-light-green-200 {
+  color: #c5e1a5 !important;
+}
+
+.border-color-hover-light-green-200:hover, .border-color-hover-light-green-200:active, .border-color-hover-light-green-200:focus {
+  color: #c5e1a5 !important;
+}
+
+.border-color-light-green-300 {
+  color: #aed581 !important;
+}
+
+.border-color-hover-light-green-300:hover, .border-color-hover-light-green-300:active, .border-color-hover-light-green-300:focus {
+  color: #aed581 !important;
+}
+
+.border-color-light-green-400 {
+  color: #9ccc65 !important;
+}
+
+.border-color-hover-light-green-400:hover, .border-color-hover-light-green-400:active, .border-color-hover-light-green-400:focus {
+  color: #9ccc65 !important;
+}
+
+.border-color-light-green-500 {
+  color: #8bc34a !important;
+}
+
+.border-color-hover-light-green-500:hover, .border-color-hover-light-green-500:active, .border-color-hover-light-green-500:focus {
+  color: #8bc34a !important;
+}
+
+.border-color-light-green-600 {
+  color: #7cb342 !important;
+}
+
+.border-color-hover-light-green-600:hover, .border-color-hover-light-green-600:active, .border-color-hover-light-green-600:focus {
+  color: #7cb342 !important;
+}
+
+.border-color-light-green-700 {
+  color: #689f38 !important;
+}
+
+.border-color-hover-light-green-700:hover, .border-color-hover-light-green-700:active, .border-color-hover-light-green-700:focus {
+  color: #689f38 !important;
+}
+
+.border-color-light-green-800 {
+  color: #558b2f !important;
+}
+
+.border-color-hover-light-green-800:hover, .border-color-hover-light-green-800:active, .border-color-hover-light-green-800:focus {
+  color: #558b2f !important;
+}
+
+.border-color-light-green-900 {
+  color: #33691e !important;
+}
+
+.border-color-hover-light-green-900:hover, .border-color-hover-light-green-900:active, .border-color-hover-light-green-900:focus {
+  color: #33691e !important;
+}
+
+.border-color-light-green-a100 {
+  color: #ccff90 !important;
+}
+
+.border-color-hover-light-green-a100:hover, .border-color-hover-light-green-a100:active, .border-color-hover-light-green-a100:focus {
+  color: #ccff90 !important;
+}
+
+.border-color-light-green-a200 {
+  color: #b2ff59 !important;
+}
+
+.border-color-hover-light-green-a200:hover, .border-color-hover-light-green-a200:active, .border-color-hover-light-green-a200:focus {
+  color: #b2ff59 !important;
+}
+
+.border-color-light-green-a400 {
+  color: #76ff03 !important;
+}
+
+.border-color-hover-light-green-a400:hover, .border-color-hover-light-green-a400:active, .border-color-hover-light-green-a400:focus {
+  color: #76ff03 !important;
+}
+
+.border-color-light-green-a700 {
+  color: #64dd17 !important;
+}
+
+.border-color-hover-light-green-a700:hover, .border-color-hover-light-green-a700:active, .border-color-hover-light-green-a700:focus {
+  color: #64dd17 !important;
+}
+
+.border-color-lime-50 {
+  color: #f9fbe7 !important;
+}
+
+.border-color-hover-lime-50:hover, .border-color-hover-lime-50:active, .border-color-hover-lime-50:focus {
+  color: #f9fbe7 !important;
+}
+
+.border-color-lime-100 {
+  color: #f0f4c3 !important;
+}
+
+.border-color-hover-lime-100:hover, .border-color-hover-lime-100:active, .border-color-hover-lime-100:focus {
+  color: #f0f4c3 !important;
+}
+
+.border-color-lime-200 {
+  color: #e6ee9c !important;
+}
+
+.border-color-hover-lime-200:hover, .border-color-hover-lime-200:active, .border-color-hover-lime-200:focus {
+  color: #e6ee9c !important;
+}
+
+.border-color-lime-300 {
+  color: #dce775 !important;
+}
+
+.border-color-hover-lime-300:hover, .border-color-hover-lime-300:active, .border-color-hover-lime-300:focus {
+  color: #dce775 !important;
+}
+
+.border-color-lime-400 {
+  color: #d4e157 !important;
+}
+
+.border-color-hover-lime-400:hover, .border-color-hover-lime-400:active, .border-color-hover-lime-400:focus {
+  color: #d4e157 !important;
+}
+
+.border-color-lime-500 {
+  color: #cddc39 !important;
+}
+
+.border-color-hover-lime-500:hover, .border-color-hover-lime-500:active, .border-color-hover-lime-500:focus {
+  color: #cddc39 !important;
+}
+
+.border-color-lime-600 {
+  color: #c0ca33 !important;
+}
+
+.border-color-hover-lime-600:hover, .border-color-hover-lime-600:active, .border-color-hover-lime-600:focus {
+  color: #c0ca33 !important;
+}
+
+.border-color-lime-700 {
+  color: #afb42b !important;
+}
+
+.border-color-hover-lime-700:hover, .border-color-hover-lime-700:active, .border-color-hover-lime-700:focus {
+  color: #afb42b !important;
+}
+
+.border-color-lime-800 {
+  color: #9e9d24 !important;
+}
+
+.border-color-hover-lime-800:hover, .border-color-hover-lime-800:active, .border-color-hover-lime-800:focus {
+  color: #9e9d24 !important;
+}
+
+.border-color-lime-900 {
+  color: #827717 !important;
+}
+
+.border-color-hover-lime-900:hover, .border-color-hover-lime-900:active, .border-color-hover-lime-900:focus {
+  color: #827717 !important;
+}
+
+.border-color-lime-a100 {
+  color: #f4ff81 !important;
+}
+
+.border-color-hover-lime-a100:hover, .border-color-hover-lime-a100:active, .border-color-hover-lime-a100:focus {
+  color: #f4ff81 !important;
+}
+
+.border-color-lime-a200 {
+  color: #eeff41 !important;
+}
+
+.border-color-hover-lime-a200:hover, .border-color-hover-lime-a200:active, .border-color-hover-lime-a200:focus {
+  color: #eeff41 !important;
+}
+
+.border-color-lime-a400 {
+  color: #c6ff00 !important;
+}
+
+.border-color-hover-lime-a400:hover, .border-color-hover-lime-a400:active, .border-color-hover-lime-a400:focus {
+  color: #c6ff00 !important;
+}
+
+.border-color-lime-a700 {
+  color: #aeea00 !important;
+}
+
+.border-color-hover-lime-a700:hover, .border-color-hover-lime-a700:active, .border-color-hover-lime-a700:focus {
+  color: #aeea00 !important;
+}
+
+.border-color-yellow-50 {
+  color: #fffde7 !important;
+}
+
+.border-color-hover-yellow-50:hover, .border-color-hover-yellow-50:active, .border-color-hover-yellow-50:focus {
+  color: #fffde7 !important;
+}
+
+.border-color-yellow-100 {
+  color: #fff9c4 !important;
+}
+
+.border-color-hover-yellow-100:hover, .border-color-hover-yellow-100:active, .border-color-hover-yellow-100:focus {
+  color: #fff9c4 !important;
+}
+
+.border-color-yellow-200 {
+  color: #fff59d !important;
+}
+
+.border-color-hover-yellow-200:hover, .border-color-hover-yellow-200:active, .border-color-hover-yellow-200:focus {
+  color: #fff59d !important;
+}
+
+.border-color-yellow-300 {
+  color: #fff176 !important;
+}
+
+.border-color-hover-yellow-300:hover, .border-color-hover-yellow-300:active, .border-color-hover-yellow-300:focus {
+  color: #fff176 !important;
+}
+
+.border-color-yellow-400 {
+  color: #ffee58 !important;
+}
+
+.border-color-hover-yellow-400:hover, .border-color-hover-yellow-400:active, .border-color-hover-yellow-400:focus {
+  color: #ffee58 !important;
+}
+
+.border-color-yellow-500 {
+  color: #ffeb3b !important;
+}
+
+.border-color-hover-yellow-500:hover, .border-color-hover-yellow-500:active, .border-color-hover-yellow-500:focus {
+  color: #ffeb3b !important;
+}
+
+.border-color-yellow-600 {
+  color: #fdd835 !important;
+}
+
+.border-color-hover-yellow-600:hover, .border-color-hover-yellow-600:active, .border-color-hover-yellow-600:focus {
+  color: #fdd835 !important;
+}
+
+.border-color-yellow-700 {
+  color: #fbc02d !important;
+}
+
+.border-color-hover-yellow-700:hover, .border-color-hover-yellow-700:active, .border-color-hover-yellow-700:focus {
+  color: #fbc02d !important;
+}
+
+.border-color-yellow-800 {
+  color: #f9a825 !important;
+}
+
+.border-color-hover-yellow-800:hover, .border-color-hover-yellow-800:active, .border-color-hover-yellow-800:focus {
+  color: #f9a825 !important;
+}
+
+.border-color-yellow-900 {
+  color: #f57f17 !important;
+}
+
+.border-color-hover-yellow-900:hover, .border-color-hover-yellow-900:active, .border-color-hover-yellow-900:focus {
+  color: #f57f17 !important;
+}
+
+.border-color-yellow-a100 {
+  color: #ffff8d !important;
+}
+
+.border-color-hover-yellow-a100:hover, .border-color-hover-yellow-a100:active, .border-color-hover-yellow-a100:focus {
+  color: #ffff8d !important;
+}
+
+.border-color-yellow-a200 {
+  color: #ffff00 !important;
+}
+
+.border-color-hover-yellow-a200:hover, .border-color-hover-yellow-a200:active, .border-color-hover-yellow-a200:focus {
+  color: #ffff00 !important;
+}
+
+.border-color-yellow-a400 {
+  color: #ffea00 !important;
+}
+
+.border-color-hover-yellow-a400:hover, .border-color-hover-yellow-a400:active, .border-color-hover-yellow-a400:focus {
+  color: #ffea00 !important;
+}
+
+.border-color-yellow-a700 {
+  color: #ffd600 !important;
+}
+
+.border-color-hover-yellow-a700:hover, .border-color-hover-yellow-a700:active, .border-color-hover-yellow-a700:focus {
+  color: #ffd600 !important;
+}
+
+.border-color-amber-50 {
+  color: #fff8e1 !important;
+}
+
+.border-color-hover-amber-50:hover, .border-color-hover-amber-50:active, .border-color-hover-amber-50:focus {
+  color: #fff8e1 !important;
+}
+
+.border-color-amber-100 {
+  color: #ffecb3 !important;
+}
+
+.border-color-hover-amber-100:hover, .border-color-hover-amber-100:active, .border-color-hover-amber-100:focus {
+  color: #ffecb3 !important;
+}
+
+.border-color-amber-200 {
+  color: #ffe082 !important;
+}
+
+.border-color-hover-amber-200:hover, .border-color-hover-amber-200:active, .border-color-hover-amber-200:focus {
+  color: #ffe082 !important;
+}
+
+.border-color-amber-300 {
+  color: #ffd54f !important;
+}
+
+.border-color-hover-amber-300:hover, .border-color-hover-amber-300:active, .border-color-hover-amber-300:focus {
+  color: #ffd54f !important;
+}
+
+.border-color-amber-400 {
+  color: #ffca28 !important;
+}
+
+.border-color-hover-amber-400:hover, .border-color-hover-amber-400:active, .border-color-hover-amber-400:focus {
+  color: #ffca28 !important;
+}
+
+.border-color-amber-500 {
+  color: #ffc107 !important;
+}
+
+.border-color-hover-amber-500:hover, .border-color-hover-amber-500:active, .border-color-hover-amber-500:focus {
+  color: #ffc107 !important;
+}
+
+.border-color-amber-600 {
+  color: #ffb300 !important;
+}
+
+.border-color-hover-amber-600:hover, .border-color-hover-amber-600:active, .border-color-hover-amber-600:focus {
+  color: #ffb300 !important;
+}
+
+.border-color-amber-700 {
+  color: #ffa000 !important;
+}
+
+.border-color-hover-amber-700:hover, .border-color-hover-amber-700:active, .border-color-hover-amber-700:focus {
+  color: #ffa000 !important;
+}
+
+.border-color-amber-800 {
+  color: #ff8f00 !important;
+}
+
+.border-color-hover-amber-800:hover, .border-color-hover-amber-800:active, .border-color-hover-amber-800:focus {
+  color: #ff8f00 !important;
+}
+
+.border-color-amber-900 {
+  color: #ff6f00 !important;
+}
+
+.border-color-hover-amber-900:hover, .border-color-hover-amber-900:active, .border-color-hover-amber-900:focus {
+  color: #ff6f00 !important;
+}
+
+.border-color-amber-a100 {
+  color: #ffe57f !important;
+}
+
+.border-color-hover-amber-a100:hover, .border-color-hover-amber-a100:active, .border-color-hover-amber-a100:focus {
+  color: #ffe57f !important;
+}
+
+.border-color-amber-a200 {
+  color: #ffd740 !important;
+}
+
+.border-color-hover-amber-a200:hover, .border-color-hover-amber-a200:active, .border-color-hover-amber-a200:focus {
+  color: #ffd740 !important;
+}
+
+.border-color-amber-a400 {
+  color: #ffc400 !important;
+}
+
+.border-color-hover-amber-a400:hover, .border-color-hover-amber-a400:active, .border-color-hover-amber-a400:focus {
+  color: #ffc400 !important;
+}
+
+.border-color-amber-a700 {
+  color: #ffab00 !important;
+}
+
+.border-color-hover-amber-a700:hover, .border-color-hover-amber-a700:active, .border-color-hover-amber-a700:focus {
+  color: #ffab00 !important;
+}
+
+.border-color-orange-50 {
+  color: #fff3e0 !important;
+}
+
+.border-color-hover-orange-50:hover, .border-color-hover-orange-50:active, .border-color-hover-orange-50:focus {
+  color: #fff3e0 !important;
+}
+
+.border-color-orange-100 {
+  color: #ffe0b2 !important;
+}
+
+.border-color-hover-orange-100:hover, .border-color-hover-orange-100:active, .border-color-hover-orange-100:focus {
+  color: #ffe0b2 !important;
+}
+
+.border-color-orange-200 {
+  color: #ffcc80 !important;
+}
+
+.border-color-hover-orange-200:hover, .border-color-hover-orange-200:active, .border-color-hover-orange-200:focus {
+  color: #ffcc80 !important;
+}
+
+.border-color-orange-300 {
+  color: #ffb74d !important;
+}
+
+.border-color-hover-orange-300:hover, .border-color-hover-orange-300:active, .border-color-hover-orange-300:focus {
+  color: #ffb74d !important;
+}
+
+.border-color-orange-400 {
+  color: #ffa726 !important;
+}
+
+.border-color-hover-orange-400:hover, .border-color-hover-orange-400:active, .border-color-hover-orange-400:focus {
+  color: #ffa726 !important;
+}
+
+.border-color-orange-500 {
+  color: #ff9800 !important;
+}
+
+.border-color-hover-orange-500:hover, .border-color-hover-orange-500:active, .border-color-hover-orange-500:focus {
+  color: #ff9800 !important;
+}
+
+.border-color-orange-600 {
+  color: #fb8c00 !important;
+}
+
+.border-color-hover-orange-600:hover, .border-color-hover-orange-600:active, .border-color-hover-orange-600:focus {
+  color: #fb8c00 !important;
+}
+
+.border-color-orange-700 {
+  color: #f57c00 !important;
+}
+
+.border-color-hover-orange-700:hover, .border-color-hover-orange-700:active, .border-color-hover-orange-700:focus {
+  color: #f57c00 !important;
+}
+
+.border-color-orange-800 {
+  color: #ef6c00 !important;
+}
+
+.border-color-hover-orange-800:hover, .border-color-hover-orange-800:active, .border-color-hover-orange-800:focus {
+  color: #ef6c00 !important;
+}
+
+.border-color-orange-900 {
+  color: #e65100 !important;
+}
+
+.border-color-hover-orange-900:hover, .border-color-hover-orange-900:active, .border-color-hover-orange-900:focus {
+  color: #e65100 !important;
+}
+
+.border-color-orange-a100 {
+  color: #ffd180 !important;
+}
+
+.border-color-hover-orange-a100:hover, .border-color-hover-orange-a100:active, .border-color-hover-orange-a100:focus {
+  color: #ffd180 !important;
+}
+
+.border-color-orange-a200 {
+  color: #ffab40 !important;
+}
+
+.border-color-hover-orange-a200:hover, .border-color-hover-orange-a200:active, .border-color-hover-orange-a200:focus {
+  color: #ffab40 !important;
+}
+
+.border-color-orange-a400 {
+  color: #ff9100 !important;
+}
+
+.border-color-hover-orange-a400:hover, .border-color-hover-orange-a400:active, .border-color-hover-orange-a400:focus {
+  color: #ff9100 !important;
+}
+
+.border-color-orange-a700 {
+  color: #ff6d00 !important;
+}
+
+.border-color-hover-orange-a700:hover, .border-color-hover-orange-a700:active, .border-color-hover-orange-a700:focus {
+  color: #ff6d00 !important;
+}
+
+.border-color-deep-orange-50 {
+  color: #fbe9e7 !important;
+}
+
+.border-color-hover-deep-orange-50:hover, .border-color-hover-deep-orange-50:active, .border-color-hover-deep-orange-50:focus {
+  color: #fbe9e7 !important;
+}
+
+.border-color-deep-orange-100 {
+  color: #ffccbc !important;
+}
+
+.border-color-hover-deep-orange-100:hover, .border-color-hover-deep-orange-100:active, .border-color-hover-deep-orange-100:focus {
+  color: #ffccbc !important;
+}
+
+.border-color-deep-orange-200 {
+  color: #ffab91 !important;
+}
+
+.border-color-hover-deep-orange-200:hover, .border-color-hover-deep-orange-200:active, .border-color-hover-deep-orange-200:focus {
+  color: #ffab91 !important;
+}
+
+.border-color-deep-orange-300 {
+  color: #ff8a65 !important;
+}
+
+.border-color-hover-deep-orange-300:hover, .border-color-hover-deep-orange-300:active, .border-color-hover-deep-orange-300:focus {
+  color: #ff8a65 !important;
+}
+
+.border-color-deep-orange-400 {
+  color: #ff7043 !important;
+}
+
+.border-color-hover-deep-orange-400:hover, .border-color-hover-deep-orange-400:active, .border-color-hover-deep-orange-400:focus {
+  color: #ff7043 !important;
+}
+
+.border-color-deep-orange-500 {
+  color: #ff5722 !important;
+}
+
+.border-color-hover-deep-orange-500:hover, .border-color-hover-deep-orange-500:active, .border-color-hover-deep-orange-500:focus {
+  color: #ff5722 !important;
+}
+
+.border-color-deep-orange-600 {
+  color: #f4511e !important;
+}
+
+.border-color-hover-deep-orange-600:hover, .border-color-hover-deep-orange-600:active, .border-color-hover-deep-orange-600:focus {
+  color: #f4511e !important;
+}
+
+.border-color-deep-orange-700 {
+  color: #e64a19 !important;
+}
+
+.border-color-hover-deep-orange-700:hover, .border-color-hover-deep-orange-700:active, .border-color-hover-deep-orange-700:focus {
+  color: #e64a19 !important;
+}
+
+.border-color-deep-orange-800 {
+  color: #d84315 !important;
+}
+
+.border-color-hover-deep-orange-800:hover, .border-color-hover-deep-orange-800:active, .border-color-hover-deep-orange-800:focus {
+  color: #d84315 !important;
+}
+
+.border-color-deep-orange-900 {
+  color: #bf360c !important;
+}
+
+.border-color-hover-deep-orange-900:hover, .border-color-hover-deep-orange-900:active, .border-color-hover-deep-orange-900:focus {
+  color: #bf360c !important;
+}
+
+.border-color-deep-orange-a100 {
+  color: #ff9e80 !important;
+}
+
+.border-color-hover-deep-orange-a100:hover, .border-color-hover-deep-orange-a100:active, .border-color-hover-deep-orange-a100:focus {
+  color: #ff9e80 !important;
+}
+
+.border-color-deep-orange-a200 {
+  color: #ff6e40 !important;
+}
+
+.border-color-hover-deep-orange-a200:hover, .border-color-hover-deep-orange-a200:active, .border-color-hover-deep-orange-a200:focus {
+  color: #ff6e40 !important;
+}
+
+.border-color-deep-orange-a400 {
+  color: #ff3d00 !important;
+}
+
+.border-color-hover-deep-orange-a400:hover, .border-color-hover-deep-orange-a400:active, .border-color-hover-deep-orange-a400:focus {
+  color: #ff3d00 !important;
+}
+
+.border-color-deep-orange-a700 {
+  color: #dd2c00 !important;
+}
+
+.border-color-hover-deep-orange-a700:hover, .border-color-hover-deep-orange-a700:active, .border-color-hover-deep-orange-a700:focus {
+  color: #dd2c00 !important;
+}
+
+.border-color-brown-50 {
+  color: #efebe9 !important;
+}
+
+.border-color-hover-brown-50:hover, .border-color-hover-brown-50:active, .border-color-hover-brown-50:focus {
+  color: #efebe9 !important;
+}
+
+.border-color-brown-100 {
+  color: #d7ccc8 !important;
+}
+
+.border-color-hover-brown-100:hover, .border-color-hover-brown-100:active, .border-color-hover-brown-100:focus {
+  color: #d7ccc8 !important;
+}
+
+.border-color-brown-200 {
+  color: #bcaaa4 !important;
+}
+
+.border-color-hover-brown-200:hover, .border-color-hover-brown-200:active, .border-color-hover-brown-200:focus {
+  color: #bcaaa4 !important;
+}
+
+.border-color-brown-300 {
+  color: #a1887f !important;
+}
+
+.border-color-hover-brown-300:hover, .border-color-hover-brown-300:active, .border-color-hover-brown-300:focus {
+  color: #a1887f !important;
+}
+
+.border-color-brown-400 {
+  color: #8d6e63 !important;
+}
+
+.border-color-hover-brown-400:hover, .border-color-hover-brown-400:active, .border-color-hover-brown-400:focus {
+  color: #8d6e63 !important;
+}
+
+.border-color-brown-500 {
+  color: #795548 !important;
+}
+
+.border-color-hover-brown-500:hover, .border-color-hover-brown-500:active, .border-color-hover-brown-500:focus {
+  color: #795548 !important;
+}
+
+.border-color-brown-600 {
+  color: #6d4c41 !important;
+}
+
+.border-color-hover-brown-600:hover, .border-color-hover-brown-600:active, .border-color-hover-brown-600:focus {
+  color: #6d4c41 !important;
+}
+
+.border-color-brown-700 {
+  color: #5d4037 !important;
+}
+
+.border-color-hover-brown-700:hover, .border-color-hover-brown-700:active, .border-color-hover-brown-700:focus {
+  color: #5d4037 !important;
+}
+
+.border-color-brown-800 {
+  color: #4e342e !important;
+}
+
+.border-color-hover-brown-800:hover, .border-color-hover-brown-800:active, .border-color-hover-brown-800:focus {
+  color: #4e342e !important;
+}
+
+.border-color-brown-900 {
+  color: #3e2723 !important;
+}
+
+.border-color-hover-brown-900:hover, .border-color-hover-brown-900:active, .border-color-hover-brown-900:focus {
+  color: #3e2723 !important;
+}
+
+.border-color-brown-a100 {
+  color: #d7ccc8 !important;
+}
+
+.border-color-hover-brown-a100:hover, .border-color-hover-brown-a100:active, .border-color-hover-brown-a100:focus {
+  color: #d7ccc8 !important;
+}
+
+.border-color-brown-a200 {
+  color: #bcaaa4 !important;
+}
+
+.border-color-hover-brown-a200:hover, .border-color-hover-brown-a200:active, .border-color-hover-brown-a200:focus {
+  color: #bcaaa4 !important;
+}
+
+.border-color-brown-a400 {
+  color: #8d6e63 !important;
+}
+
+.border-color-hover-brown-a400:hover, .border-color-hover-brown-a400:active, .border-color-hover-brown-a400:focus {
+  color: #8d6e63 !important;
+}
+
+.border-color-brown-a700 {
+  color: #5d4037 !important;
+}
+
+.border-color-hover-brown-a700:hover, .border-color-hover-brown-a700:active, .border-color-hover-brown-a700:focus {
+  color: #5d4037 !important;
+}
+
+.border-color-grey-50 {
+  color: #fafafa !important;
+}
+
+.border-color-hover-grey-50:hover, .border-color-hover-grey-50:active, .border-color-hover-grey-50:focus {
+  color: #fafafa !important;
+}
+
+.border-color-grey-100 {
+  color: #f5f5f5 !important;
+}
+
+.border-color-hover-grey-100:hover, .border-color-hover-grey-100:active, .border-color-hover-grey-100:focus {
+  color: #f5f5f5 !important;
+}
+
+.border-color-grey-200 {
+  color: #eeeeee !important;
+}
+
+.border-color-hover-grey-200:hover, .border-color-hover-grey-200:active, .border-color-hover-grey-200:focus {
+  color: #eeeeee !important;
+}
+
+.border-color-grey-300 {
+  color: #e0e0e0 !important;
+}
+
+.border-color-hover-grey-300:hover, .border-color-hover-grey-300:active, .border-color-hover-grey-300:focus {
+  color: #e0e0e0 !important;
+}
+
+.border-color-grey-400 {
+  color: #bdbdbd !important;
+}
+
+.border-color-hover-grey-400:hover, .border-color-hover-grey-400:active, .border-color-hover-grey-400:focus {
+  color: #bdbdbd !important;
+}
+
+.border-color-grey-500 {
+  color: #9e9e9e !important;
+}
+
+.border-color-hover-grey-500:hover, .border-color-hover-grey-500:active, .border-color-hover-grey-500:focus {
+  color: #9e9e9e !important;
+}
+
+.border-color-grey-600 {
+  color: #757575 !important;
+}
+
+.border-color-hover-grey-600:hover, .border-color-hover-grey-600:active, .border-color-hover-grey-600:focus {
+  color: #757575 !important;
+}
+
+.border-color-grey-700 {
+  color: #616161 !important;
+}
+
+.border-color-hover-grey-700:hover, .border-color-hover-grey-700:active, .border-color-hover-grey-700:focus {
+  color: #616161 !important;
+}
+
+.border-color-grey-800 {
+  color: #424242 !important;
+}
+
+.border-color-hover-grey-800:hover, .border-color-hover-grey-800:active, .border-color-hover-grey-800:focus {
+  color: #424242 !important;
+}
+
+.border-color-grey-900 {
+  color: #212121 !important;
+}
+
+.border-color-hover-grey-900:hover, .border-color-hover-grey-900:active, .border-color-hover-grey-900:focus {
+  color: #212121 !important;
+}
+
+.border-color-grey-1000 {
+  color: #000000 !important;
+}
+
+.border-color-hover-grey-1000:hover, .border-color-hover-grey-1000:active, .border-color-hover-grey-1000:focus {
+  color: #000000 !important;
+}
+
+.border-color-grey-a100 {
+  color: #ffffff !important;
+}
+
+.border-color-hover-grey-a100:hover, .border-color-hover-grey-a100:active, .border-color-hover-grey-a100:focus {
+  color: #ffffff !important;
+}
+
+.border-color-grey-a200 {
+  color: #eeeeee !important;
+}
+
+.border-color-hover-grey-a200:hover, .border-color-hover-grey-a200:active, .border-color-hover-grey-a200:focus {
+  color: #eeeeee !important;
+}
+
+.border-color-grey-a400 {
+  color: #bdbdbd !important;
+}
+
+.border-color-hover-grey-a400:hover, .border-color-hover-grey-a400:active, .border-color-hover-grey-a400:focus {
+  color: #bdbdbd !important;
+}
+
+.border-color-grey-a700 {
+  color: #616161 !important;
+}
+
+.border-color-hover-grey-a700:hover, .border-color-hover-grey-a700:active, .border-color-hover-grey-a700:focus {
+  color: #616161 !important;
+}
+
+.border-color-blue-grey-50 {
+  color: #eceff1 !important;
+}
+
+.border-color-hover-blue-grey-50:hover, .border-color-hover-blue-grey-50:active, .border-color-hover-blue-grey-50:focus {
+  color: #eceff1 !important;
+}
+
+.border-color-blue-grey-100 {
+  color: #cfd8dc !important;
+}
+
+.border-color-hover-blue-grey-100:hover, .border-color-hover-blue-grey-100:active, .border-color-hover-blue-grey-100:focus {
+  color: #cfd8dc !important;
+}
+
+.border-color-blue-grey-200 {
+  color: #b0bec5 !important;
+}
+
+.border-color-hover-blue-grey-200:hover, .border-color-hover-blue-grey-200:active, .border-color-hover-blue-grey-200:focus {
+  color: #b0bec5 !important;
+}
+
+.border-color-blue-grey-300 {
+  color: #90a4ae !important;
+}
+
+.border-color-hover-blue-grey-300:hover, .border-color-hover-blue-grey-300:active, .border-color-hover-blue-grey-300:focus {
+  color: #90a4ae !important;
+}
+
+.border-color-blue-grey-400 {
+  color: #78909c !important;
+}
+
+.border-color-hover-blue-grey-400:hover, .border-color-hover-blue-grey-400:active, .border-color-hover-blue-grey-400:focus {
+  color: #78909c !important;
+}
+
+.border-color-blue-grey-500 {
+  color: #607d8b !important;
+}
+
+.border-color-hover-blue-grey-500:hover, .border-color-hover-blue-grey-500:active, .border-color-hover-blue-grey-500:focus {
+  color: #607d8b !important;
+}
+
+.border-color-blue-grey-600 {
+  color: #546e7a !important;
+}
+
+.border-color-hover-blue-grey-600:hover, .border-color-hover-blue-grey-600:active, .border-color-hover-blue-grey-600:focus {
+  color: #546e7a !important;
+}
+
+.border-color-blue-grey-700 {
+  color: #455a64 !important;
+}
+
+.border-color-hover-blue-grey-700:hover, .border-color-hover-blue-grey-700:active, .border-color-hover-blue-grey-700:focus {
+  color: #455a64 !important;
+}
+
+.border-color-blue-grey-800 {
+  color: #37474f !important;
+}
+
+.border-color-hover-blue-grey-800:hover, .border-color-hover-blue-grey-800:active, .border-color-hover-blue-grey-800:focus {
+  color: #37474f !important;
+}
+
+.border-color-blue-grey-900 {
+  color: #263238 !important;
+}
+
+.border-color-hover-blue-grey-900:hover, .border-color-hover-blue-grey-900:active, .border-color-hover-blue-grey-900:focus {
+  color: #263238 !important;
+}
+
+.border-color-blue-grey-a100 {
+  color: #cfd8dc !important;
+}
+
+.border-color-hover-blue-grey-a100:hover, .border-color-hover-blue-grey-a100:active, .border-color-hover-blue-grey-a100:focus {
+  color: #cfd8dc !important;
+}
+
+.border-color-blue-grey-a200 {
+  color: #b0bec5 !important;
+}
+
+.border-color-hover-blue-grey-a200:hover, .border-color-hover-blue-grey-a200:active, .border-color-hover-blue-grey-a200:focus {
+  color: #b0bec5 !important;
+}
+
+.border-color-blue-grey-a400 {
+  color: #78909c !important;
+}
+
+.border-color-hover-blue-grey-a400:hover, .border-color-hover-blue-grey-a400:active, .border-color-hover-blue-grey-a400:focus {
+  color: #78909c !important;
+}
+
+.border-color-blue-grey-a700 {
+  color: #455a64 !important;
+}
+
+.border-color-hover-blue-grey-a700:hover, .border-color-hover-blue-grey-a700:active, .border-color-hover-blue-grey-a700:focus {
+  color: #455a64 !important;
+}
+
+.border-color-light {
+  color: #f5f5f5 !important;
+}
+
+.border-color-hover-light:hover, .border-color-hover-light:active, .border-color-hover-light:focus {
+  color: #f5f5f5 !important;
+}
+
+.border-color-dark {
+  color: #212121 !important;
+}
+
+.border-color-hover-dark:hover, .border-color-hover-dark:active, .border-color-hover-dark:focus {
+  color: #212121 !important;
+}
+
+.border-color-default {
+  color: #212121 !important;
+}
+
+.border-color-hover-default:hover, .border-color-hover-default:active, .border-color-hover-default:focus {
+  color: #212121 !important;
+}
+
+.border-color-primary {
+  color: #2684f5 !important;
+}
+
+.border-color-hover-primary:hover, .border-color-hover-primary:active, .border-color-hover-primary:focus {
+  color: #2684f5 !important;
+}
+
+.border-color-secondary {
+  color: #6200ea !important;
+}
+
+.border-color-hover-secondary:hover, .border-color-hover-secondary:active, .border-color-hover-secondary:focus {
+  color: #6200ea !important;
+}
+
+.border-color-info {
+  color: #00b8d4 !important;
+}
+
+.border-color-hover-info:hover, .border-color-hover-info:active, .border-color-hover-info:focus {
+  color: #00b8d4 !important;
+}
+
+.border-color-success {
+  color: #43a047 !important;
+}
+
+.border-color-hover-success:hover, .border-color-hover-success:active, .border-color-hover-success:focus {
+  color: #43a047 !important;
+}
+
+.border-color-warning {
+  color: #ff9800 !important;
+}
+
+.border-color-hover-warning:hover, .border-color-hover-warning:active, .border-color-hover-warning:focus {
+  color: #ff9800 !important;
+}
+
+.border-color-danger {
+  color: #e53935 !important;
+}
+
+.border-color-hover-danger:hover, .border-color-hover-danger:active, .border-color-hover-danger:focus {
+  color: #e53935 !important;
+}
+
+.border-color-facebook {
+  color: #365397 !important;
+}
+
+.border-color-hover-facebook:hover, .border-color-hover-facebook:active, .border-color-hover-facebook:focus {
+  color: #365397 !important;
+}
+
+.border-color-twitter {
+  color: #00a9f1 !important;
+}
+
+.border-color-hover-twitter:hover, .border-color-hover-twitter:active, .border-color-hover-twitter:focus {
+  color: #00a9f1 !important;
+}
+
+.border-color-linkedin {
+  color: #006db3 !important;
+}
+
+.border-color-hover-linkedin:hover, .border-color-hover-linkedin:active, .border-color-hover-linkedin:focus {
+  color: #006db3 !important;
+}
+
+.border-color-apple {
+  color: #737373 !important;
+}
+
+.border-color-hover-apple:hover, .border-color-hover-apple:active, .border-color-hover-apple:focus {
+  color: #737373 !important;
+}
+
+.border-color-google {
+  color: #4285f4 !important;
+}
+
+.border-color-hover-google:hover, .border-color-hover-google:active, .border-color-hover-google:focus {
+  color: #4285f4 !important;
+}
+
+.border-color-google-plus {
+  color: #e0452c !important;
+}
+
+.border-color-hover-google-plus:hover, .border-color-hover-google-plus:active, .border-color-hover-google-plus:focus {
+  color: #e0452c !important;
+}
+
+.border-color-youtube {
+  color: #ff3333 !important;
+}
+
+.border-color-hover-youtube:hover, .border-color-hover-youtube:active, .border-color-hover-youtube:focus {
+  color: #ff3333 !important;
+}
+
+.border-color-vimeo {
+  color: #48b6ed !important;
+}
+
+.border-color-hover-vimeo:hover, .border-color-hover-vimeo:active, .border-color-hover-vimeo:focus {
+  color: #48b6ed !important;
+}
+
+.border-color-pinterest {
+  color: #ce1a19 !important;
+}
+
+.border-color-hover-pinterest:hover, .border-color-hover-pinterest:active, .border-color-hover-pinterest:focus {
+  color: #ce1a19 !important;
+}
+
+.border-color-yelp {
+  color: #c30f00 !important;
+}
+
+.border-color-hover-yelp:hover, .border-color-hover-yelp:active, .border-color-hover-yelp:focus {
+  color: #c30f00 !important;
+}
+
+.border-color-dribbble {
+  color: #ed4584 !important;
+}
+
+.border-color-hover-dribbble:hover, .border-color-hover-dribbble:active, .border-color-hover-dribbble:focus {
+  color: #ed4584 !important;
+}
+
+.border-color-amazon {
+  color: #ff9700 !important;
+}
+
+.border-color-hover-amazon:hover, .border-color-hover-amazon:active, .border-color-hover-amazon:focus {
+  color: #ff9700 !important;
+}
+
+.border-color-skype {
+  color: #00acf4 !important;
+}
+
+.border-color-hover-skype:hover, .border-color-hover-skype:active, .border-color-hover-skype:focus {
+  color: #00acf4 !important;
+}
+
+.border-color-instagram {
+  color: #396d9a !important;
+}
+
+.border-color-hover-instagram:hover, .border-color-hover-instagram:active, .border-color-hover-instagram:focus {
+  color: #396d9a !important;
+}
+
+.border-color-dropbox {
+  color: #0d84de !important;
+}
+
+.border-color-hover-dropbox:hover, .border-color-hover-dropbox:active, .border-color-hover-dropbox:focus {
+  color: #0d84de !important;
+}
+
+.border-color-flickr {
+  color: #ea0066 !important;
+}
+
+.border-color-hover-flickr:hover, .border-color-hover-flickr:active, .border-color-hover-flickr:focus {
+  color: #ea0066 !important;
+}
+
+.border-color-github {
+  color: #2f2f2f !important;
+}
+
+.border-color-hover-github:hover, .border-color-hover-github:active, .border-color-hover-github:focus {
+  color: #2f2f2f !important;
+}
+
+.border-color-tumblr {
+  color: #304c68 !important;
+}
+
+.border-color-hover-tumblr:hover, .border-color-hover-tumblr:active, .border-color-hover-tumblr:focus {
+  color: #304c68 !important;
+}
+
+.border-color-foursquare {
+  color: #207dc5 !important;
+}
+
+.border-color-hover-foursquare:hover, .border-color-hover-foursquare:active, .border-color-hover-foursquare:focus {
+  color: #207dc5 !important;
+}

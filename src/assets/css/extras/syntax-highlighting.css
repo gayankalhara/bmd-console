@@ -1,0 +1,259 @@
+.hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  background: #F0F0F0;
+}
+
+.hljs,
+.hljs-subst {
+  color: #444;
+}
+
+.hljs-keyword,
+.hljs-attribute,
+.hljs-selector-tag,
+.hljs-meta-keyword,
+.hljs-doctag,
+.hljs-name {
+  font-weight: bold;
+}
+
+.hljs-built_in,
+.hljs-literal,
+.hljs-bullet,
+.hljs-code,
+.hljs-addition {
+  color: #1F811F;
+}
+
+.hljs-regexp,
+.hljs-symbol,
+.hljs-variable,
+.hljs-template-variable,
+.hljs-link,
+.hljs-selector-attr,
+.hljs-selector-pseudo {
+  color: #BC6060;
+}
+
+.hljs-type,
+.hljs-string,
+.hljs-number,
+.hljs-selector-id,
+.hljs-selector-class,
+.hljs-quote,
+.hljs-template-tag,
+.hljs-deletion {
+  color: #880000;
+}
+
+.hljs-title,
+.hljs-section {
+  color: #880000;
+  font-weight: bold;
+}
+
+.hljs-comment {
+  color: #888888;
+}
+
+.hljs-meta {
+  color: #2B6EA1;
+}
+
+.hljs-emphasis {
+  font-style: italic;
+}
+
+.hljs-strong {
+  font-weight: bold;
+}
+
+[data-background="light"] .hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  color: #212121;
+}
+
+[data-background="light"] .hljs-comment,
+[data-background="light"] .hljs-quote {
+  color: #a0a1a7;
+  font-style: italic;
+}
+
+[data-background="light"] .hljs-doctag,
+[data-background="light"] .hljs-keyword,
+[data-background="light"] .hljs-formula {
+  color: #a626a4;
+}
+
+[data-background="light"] .hljs-section,
+[data-background="light"] .hljs-name,
+[data-background="light"] .hljs-selector-tag,
+[data-background="light"] .hljs-deletion,
+[data-background="light"] .hljs-subst {
+  color: #e45649;
+}
+
+[data-background="light"] .hljs-literal {
+  color: #0184bb;
+}
+
+[data-background="light"] .hljs-string,
+[data-background="light"] .hljs-regexp,
+[data-background="light"] .hljs-addition,
+[data-background="light"] .hljs-attribute,
+[data-background="light"] .hljs-meta-string {
+  color: #50a14f;
+}
+
+[data-background="light"] .hljs-built_in,
+[data-background="light"] .hljs-class .hljs-title {
+  color: #c18401;
+}
+
+[data-background="light"] .hljs-attr,
+[data-background="light"] .hljs-variable,
+[data-background="light"] .hljs-template-variable,
+[data-background="light"] .hljs-type,
+[data-background="light"] .hljs-selector-class,
+[data-background="light"] .hljs-selector-attr,
+[data-background="light"] .hljs-selector-pseudo,
+[data-background="light"] .hljs-number {
+  color: #986801;
+}
+
+[data-background="light"] .hljs-symbol,
+[data-background="light"] .hljs-bullet,
+[data-background="light"] .hljs-link,
+[data-background="light"] .hljs-meta,
+[data-background="light"] .hljs-selector-id,
+[data-background="light"] .hljs-title {
+  color: #4078f2;
+}
+
+[data-background="light"] .hljs-emphasis {
+  font-style: italic;
+}
+
+[data-background="light"] .hljs-strong {
+  font-weight: bold;
+}
+
+[data-background="light"] .hljs-link {
+  text-decoration: underline;
+}
+
+[data-background="dark"] .hljs,
+[data-background="primary"] .hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  color: #f5f5f5;
+}
+
+[data-background="dark"] .hljs-comment,
+[data-background="dark"] .hljs-quote,
+[data-background="primary"] .hljs-comment,
+[data-background="primary"] .hljs-quote {
+  color: #5c6370;
+  font-style: italic;
+}
+
+[data-background="dark"] .hljs-doctag,
+[data-background="dark"] .hljs-keyword,
+[data-background="dark"] .hljs-formula,
+[data-background="primary"] .hljs-doctag,
+[data-background="primary"] .hljs-keyword,
+[data-background="primary"] .hljs-formula {
+  color: #c678dd;
+}
+
+[data-background="dark"] .hljs-section,
+[data-background="dark"] .hljs-name,
+[data-background="dark"] .hljs-selector-tag,
+[data-background="dark"] .hljs-deletion,
+[data-background="dark"] .hljs-subst,
+[data-background="primary"] .hljs-section,
+[data-background="primary"] .hljs-name,
+[data-background="primary"] .hljs-selector-tag,
+[data-background="primary"] .hljs-deletion,
+[data-background="primary"] .hljs-subst {
+  color: #e06c75;
+}
+
+[data-background="dark"] .hljs-literal,
+[data-background="primary"] .hljs-literal {
+  color: #56b6c2;
+}
+
+[data-background="dark"] .hljs-string,
+[data-background="dark"] .hljs-regexp,
+[data-background="dark"] .hljs-addition,
+[data-background="dark"] .hljs-attribute,
+[data-background="dark"] .hljs-meta-string,
+[data-background="primary"] .hljs-string,
+[data-background="primary"] .hljs-regexp,
+[data-background="primary"] .hljs-addition,
+[data-background="primary"] .hljs-attribute,
+[data-background="primary"] .hljs-meta-string {
+  color: #98c379;
+}
+
+[data-background="dark"] .hljs-built_in,
+[data-background="dark"] .hljs-class .hljs-title,
+[data-background="primary"] .hljs-built_in,
+[data-background="primary"] .hljs-class .hljs-title {
+  color: #e6c07b;
+}
+
+[data-background="dark"] .hljs-attr,
+[data-background="dark"] .hljs-variable,
+[data-background="dark"] .hljs-template-variable,
+[data-background="dark"] .hljs-type,
+[data-background="dark"] .hljs-selector-class,
+[data-background="dark"] .hljs-selector-attr,
+[data-background="dark"] .hljs-selector-pseudo,
+[data-background="dark"] .hljs-number,
+[data-background="primary"] .hljs-attr,
+[data-background="primary"] .hljs-variable,
+[data-background="primary"] .hljs-template-variable,
+[data-background="primary"] .hljs-type,
+[data-background="primary"] .hljs-selector-class,
+[data-background="primary"] .hljs-selector-attr,
+[data-background="primary"] .hljs-selector-pseudo,
+[data-background="primary"] .hljs-number {
+  color: #d19a66;
+}
+
+[data-background="dark"] .hljs-symbol,
+[data-background="dark"] .hljs-bullet,
+[data-background="dark"] .hljs-link,
+[data-background="dark"] .hljs-meta,
+[data-background="dark"] .hljs-selector-id,
+[data-background="dark"] .hljs-title,
+[data-background="primary"] .hljs-symbol,
+[data-background="primary"] .hljs-bullet,
+[data-background="primary"] .hljs-link,
+[data-background="primary"] .hljs-meta,
+[data-background="primary"] .hljs-selector-id,
+[data-background="primary"] .hljs-title {
+  color: #61aeee;
+}
+
+[data-background="dark"] .hljs-emphasis,
+[data-background="primary"] .hljs-emphasis {
+  font-style: italic;
+}
+
+[data-background="dark"] .hljs-strong,
+[data-background="primary"] .hljs-strong {
+  font-weight: bold;
+}
+
+[data-background="dark"] .hljs-link,
+[data-background="primary"] .hljs-link {
+  text-decoration: underline;
+}

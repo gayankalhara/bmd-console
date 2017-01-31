@@ -1,3 +1,1068 @@
-<h1>
-  {{title}}
-</h1>
+<div id="dashboards-dashboard-2" data-layout="layout-1" data-background="light" data-sidebar="light" data-navbar="light"
+     data-controller="dashboards" data-view="dashboard-2">
+  <div id="fakeloader"></div>
+  <!-- navbar -->
+  <nav class="navbar-1">
+    <!-- logo -->
+    <div class="logo">
+      <i class="fa fa-dot-circle-o"></i>
+      <span class="title">Kernel</span>
+    </div>
+    <!-- logo -->
+    <!-- toggle layout -->
+    <ul class="nav nav-inline navbar-left">
+      <li class="nav-item">
+        <a class="nav-link toggle-layout" href="#">
+          <i class="fa fa-angle-right"></i>
+        </a>
+      </li>
+    </ul>
+    <!-- toggle layout -->
+    <!-- search form -->
+    <div class="navbar-search-form">
+      <form>
+        <div class="input-group">
+          <span class="input-group-addon" style="width: 40px;"><i class="fa fa-search"></i></span>
+          <input type="text" class="form-control" placeholder="Type something...">
+        </div>
+      </form>
+    </div>
+    <!-- search form -->
+    <!-- dropdown -->
+    <div class="dropdown messages-dropdown">
+      <a class="dropdown-toggle no-after" data-toggle="dropdown" href="#">
+        <i class="fa fa-bell-o"></i>
+        <span class="tag tag-sm tag-rounded tag-danger">4</span>
+      </a>
+      <div class="dropdown-menu dropdown-menu-left from-left animated bounceIn">
+        <h3 class="dropdown-menu-title">Pending tasks</h3>
+        <div class="media">
+          <a class="media-left">
+            <img class="media-object rounded-circle" alt="image" src="../../assets/faces/m1.png">
+          </a>
+          <div class="media-body">
+            <h4 class="media-heading">Lucas Smith</h4>
+            <p>Lucas Smith checked out branch feature/123-branch at Themes/greatTheme</p>
+            <p>
+              <span class="tag tag-info">A few seconds ago</span>
+            </p>
+          </div>
+        </div>
+        <div class="media">
+          <a class="media-left">
+            <img class="media-object rounded-circle" alt="image" src="../../assets/faces/m5.png">
+          </a>
+          <div class="media-body">
+            <h4 class="media-heading">George Clinton</h4>
+            <p>George Clinton pushed to bug/123-branch at Themes/greatTheme</p>
+            <p>
+              <span class="tag tag-primary">2 hours ago</span>
+            </p>
+          </div>
+        </div>
+        <div class="media">
+          <a class="media-left">
+            <img class="media-object rounded-circle" alt="image" src="../../assets/faces/w3.png">
+          </a>
+          <div class="media-body">
+            <h4 class="media-heading">Jane Perez</h4>
+            <p>Jane Perez pushed to branch/223-branch at Themes/greatTheme</p>
+            <p>
+              <span class="tag tag-secondary">3 hours ago</span>
+            </p>
+          </div>
+        </div>
+        <div class="media">
+          <a class="media-left">
+            <img class="media-object rounded-circle" alt="image" src="../../assets/faces/m2.png">
+          </a>
+          <div class="media-body">
+            <h4 class="media-heading">Michael Smith</h4>
+            <p>Michael Smith pushed to feature/223-branch at Themes/greatTheme</p>
+            <p>
+              <span class="tag tag-secondary">4 hours ago</span>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- dropdown -->
+    <div class="flex-separator"></div>
+    <!-- dropdown -->
+    <div class="dropdown user-dropdown">
+      <a class="dropdown-toggle no-after" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        <div class="avatar avatar-40">
+          <span class="tag tag-sm tag-rounded tag-warning">1</span>
+          <img src="../../assets/faces/m7.png" class="max-w-40 rounded-circle" alt="avatar"/>
+        </div>
+      </a>
+      <div class="dropdown-menu dropdown-menu-right from-right animated bounceIn">
+        <a class="dropdown-item" href="#">
+          <i class="fa fa-envelope-o"></i>
+          <span class="title">Inbox</span>
+          <span class="tag tag-pill tag-raised tag-danger tag-sm">New</span>
+        </a>
+        <a class="dropdown-item" href="#">
+          <i class="fa fa-star-o"></i>
+          <span class="title">Messages</span>
+          <span class="tag tag-info tag-rounded tag-sm">5</span>
+        </a>
+        <a class="dropdown-item" href="#">
+          <i class="fa fa-cog"></i>
+          <span class="title">Profile</span>
+        </a>
+        <a class="dropdown-item" href="#">
+          <i class="fa fa-clock-o"></i>
+          <span class="title">Lock screen</span>
+        </a>
+        <a class="dropdown-item" href="#">
+          <i class="fa fa-power-off"></i>
+          <span class="title">Logout</span>
+        </a>
+      </div>
+    </div>
+    <!-- dropdown -->
+    <!-- dropdown -->
+    <div class="dropdown flags-dropdown">
+      <a class="dropdown-toggle no-after" data-toggle="dropdown" href="#">
+        <span class="flag flag-icon-background flag-icon flag-icon-gb"></span>
+        <span class="country-name hidden">UK</span>
+      </a>
+      <div class="dropdown-menu dropdown-menu-right from-right animated bounceIn">
+        <div class="dropdown-item">
+          <a href="#">
+            <span class="flag flag-icon-background flag-icon flag-icon-br"></span>
+            <span class="country-name">Brasil</span>
+          </a>
+        </div>
+        <div class="dropdown-item">
+          <a href="#">
+            <span class="flag flag-icon-background flag-icon flag-icon-us"></span>
+            <span class="country-name">USA</span>
+          </a>
+        </div>
+        <div class="dropdown-item">
+          <a href="#">
+            <span class="flag flag-icon-background flag-icon flag-icon-es"></span>
+            <span class="country-name">España</span>
+          </a>
+        </div>
+        <div class="dropdown-item">
+          <a href="#">
+            <span class="flag flag-icon-background flag-icon flag-icon-ru"></span>
+            <span class="country-name">Россия</span>
+          </a>
+        </div>
+        <div class="dropdown-item">
+          <a href="#">
+            <span class="flag flag-icon-background flag-icon flag-icon-cn"></span>
+            <span class="country-name">China</span>
+          </a>
+        </div>
+        <div class="dropdown-item">
+          <a href="#">
+            <span class="flag flag-icon-background flag-icon flag-icon-in"></span>
+            <span class="country-name">India</span>
+          </a>
+        </div>
+        <div class="dropdown-item">
+          <a href="#">
+            <span class="flag flag-icon-background flag-icon flag-icon-ca"></span>
+            <span class="country-name">Canada</span>
+          </a>
+        </div>
+        <div class="dropdown-item">
+          <a href="#">
+            <span class="flag flag-icon-background flag-icon flag-icon-au"></span>
+            <span class="country-name">Australia</span>
+          </a>
+        </div>
+      </div>
+    </div>
+    <!-- dropdown -->
+    <!-- links -->
+    <ul class="nav nav-inline navbar-right">
+      <li class="nav-item">
+        <a class="nav-link toggle-right-sidebar" href="#">
+          <i class="fa fa-bars"></i>
+        </a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link toggle-theme-config" href="#">
+          <i class="fa fa-cog fa-spin"></i>
+        </a>
+      </li>
+    </ul>
+    <!-- links -->
+  </nav>
+  <!-- navbar -->
+  <!-- jumbotron -->
+  <div class="jumbotron-1">
+    <div class="jumbotron jumbotron-fluid">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-xs-12">
+            <button class="btn btn-default btn-outline btn-circle btn-xs">
+              <i class="fa fa-edit"></i>
+            </button>
+            <button class="btn btn-default btn-outline btn-circle btn-xs">
+              <i class="fa fa-cog"></i>
+            </button>
+            <button class="btn btn-default btn-outline btn-circle btn-xs">
+              <i class="fa fa-refresh"></i>
+            </button>
+            <h4>Dashboard 2</h4>
+            <ol class="breadcrumb icon-home icon-angle-right no-bg">
+              <li>
+                <a href="#">
+                  Kernel </a>
+              </li>
+              <li class="active">
+                <a href="#">
+                  Dashboards </a>
+              </li>
+            </ol>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- jumbotron -->
+  <div class="container-fluid">
+    <div class="row">
+      <!-- left sidebar -->
+      <div class="left-sidebar-1">
+        <div class="wrapper">
+          <div class="content">
+            <div class="logo">
+              <img src="assets/images/logo.png"/>
+            </div>
+            <div class="left-sidebar-section" id="navigation">
+              <ul class="list-unstyled">
+
+                <li>
+                  <button class="btn btn-sidebar collapsed" data-toggle="collapse" data-parent="#navigation"
+                          data-target="#dashboard">
+                    <span class="btn-title">Dashboard</span>
+                    <span class="icon">
+                      <i class="fa fa-dashboard"></i>
+                    </span>
+                  </button>
+                </li>
+
+                <li>
+                  <button class="btn btn-sidebar collapsed" data-toggle="collapse" data-parent="#navigation"
+                          data-target="#dashboard">
+                    <span class="btn-title">My Redemptions</span>
+                    <span class="icon">
+                      <i class="fa fa-qrcode"></i>
+                    </span>
+                  </button>
+                </li>
+
+                <li>
+                  <button class="btn btn-sidebar collapsed" data-toggle="collapse" data-parent="#navigation"
+                          data-target="#dashboards">
+                    <span class="btn-title">Merchants</span>
+                    <span class="icon">
+                      <i class="fa fa-suitcase"></i>
+                    </span>
+                    <i class="pull-right fa fa-caret-down"></i>
+                  </button>
+                </li>
+
+                <li>
+                  <button class="btn btn-sidebar collapsed" data-toggle="collapse" data-parent="#navigation"
+                          data-target="#dashboards">
+                    <span class="btn-title">Deals</span>
+                    <span class="icon">
+                      <i class="fa fa-shopping-bag"></i>
+                    </span>
+                    <i class="pull-right fa fa-caret-down"></i>
+                  </button>
+                </li>
+
+                <li>
+                  <button class="btn btn-sidebar collapsed" data-toggle="collapse" data-parent="#navigation"
+                          data-target="#dashboards">
+                    <span class="btn-title">Deal Categories</span>
+                    <span class="icon">
+                      <i class="fa fa-folder"></i>
+                    </span>
+                    <i class="pull-right fa fa-caret-down"></i>
+                  </button>
+                </li>
+
+                <li>
+                  <button class="btn btn-sidebar collapsed" data-toggle="collapse" data-parent="#navigation"
+                          data-target="#dashboards">
+                    <span class="btn-title">Users</span>
+                    <span class="icon">
+                      <i class="fa fa-group"></i>
+                    </span>
+                    <i class="pull-right fa fa-caret-down"></i>
+                  </button>
+                </li>
+
+                <li>
+                  <button class="btn btn-sidebar collapsed" data-toggle="collapse" data-parent="#navigation"
+                          data-target="#dashboards">
+                    <span class="btn-title">My Account</span>
+                    <span class="icon">
+                      <i class="fa fa-id-card"></i>
+                    </span>
+                    <i class="pull-right fa fa-caret-down"></i>
+                  </button>
+                </li>
+
+                <li>
+                  <button class="btn btn-sidebar collapsed" data-toggle="collapse" data-parent="#navigation"
+                          data-target="#dashboards">
+                    <span class="btn-title">Locations</span>
+                    <span class="icon">
+                      <i class="fa fa-map-marker"></i>
+                    </span>
+                    <i class="pull-right fa fa-caret-down"></i>
+                  </button>
+                </li>
+
+                <li>
+                  <button class="btn btn-sidebar collapsed" data-toggle="collapse" data-parent="#navigation">
+                    <span class="btn-title">Help and Support</span>
+                    <span class="icon">
+                      <i class="fa fa-support"></i>
+                    </span>
+                  </button>
+                </li>
+
+                <li>
+                  <button class="btn btn-sidebar collapsed" data-toggle="collapse" data-parent="#navigation">
+                    <span class="btn-title">Feedback</span>
+                    <span class="icon">
+                      <i class="fa fa-thumbs-up"></i>
+                    </span>
+                  </button>
+                </li>
+
+                <li>
+                  <button class="btn btn-sidebar collapsed" data-toggle="collapse" data-parent="#navigation">
+                    <span class="btn-title">Settings</span>
+                    <span class="icon">
+                      <i class="fa fa-cog"></i>
+                    </span>
+                  </button>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- left sidebar -->
+      <!-- right sidebar -->
+      <div class="right-sidebar-outer">
+        <div class="right-sidebar-inner">
+          <div class="right-sidebar">
+            <ul class="nav nav-tabs nav-tabs-justified">
+              <li class="nav-item">
+                <a href="#" class="nav-link active" data-toggle="tab" data-target="#right-sidebar-tabs-0">Friends</a>
+              </li>
+              <li class="nav-item">
+                <a href="#" class="nav-link" data-toggle="tab" data-target="#right-sidebar-tabs-1">Activities</a>
+              </li>
+            </ul>
+            <div class="tab-content">
+              <div role="tabpanel" class="tab-pane active" id="right-sidebar-tabs-0">
+                <div class="row m-b-20">
+                  <div class="col-xs-12">
+                    <h4>Online</h4>
+                    <div class="user-widget-2">
+                      <ul class="list-group">
+                        <li class="list-group-item">
+                          <div class="row">
+                            <div class="col-xs flex-xs-middle flex-60">
+                              <img class="rounded-circle max-w-40" src="../../assets/faces/w1.png" alt="image"/>
+                            </div>
+                            <div class="col-xs">
+                              <p class="list-group-item-heading">
+                                Janet Abshire </p>
+                              <p class="list-group-item-text">
+                                Pinterest </p>
+                              <p class="list-group-item-text">
+                                <span class="tag tag-warning tag-pill">incididunt</span>
+                                <span class="tag tag-secondary tag-pill">incididunt</span>
+                                <span class="tag tag-warning tag-pill">eiusmod</span>
+                              </p>
+                            </div>
+                            <div class="col-xs flex-xs-middle flex-60">
+                              <i class="fa fa-dot-circle-o color-info"></i>
+                            </div>
+                          </div>
+                        </li>
+                        <li class="list-group-item">
+                          <div class="row">
+                            <div class="col-xs flex-xs-middle flex-60">
+                              <img class="rounded-circle max-w-40" src="../../assets/faces/m1.png" alt="image"/>
+                            </div>
+                            <div class="col-xs">
+                              <p class="list-group-item-heading">
+                                Lucas smith </p>
+                              <p class="list-group-item-text">
+                                Apple, Inc. </p>
+                              <p class="list-group-item-text">
+                                <span class="tag tag-primary tag-pill">aliqua</span>
+                                <span class="tag tag-warning tag-pill">dolor</span>
+                                <span class="tag tag-info tag-pill">dolore</span>
+                              </p>
+                            </div>
+                            <div class="col-xs flex-xs-middle flex-60">
+                              <i class="fa fa-dot-circle-o color-success"></i>
+                            </div>
+                          </div>
+                        </li>
+                        <li class="list-group-item">
+                          <div class="row">
+                            <div class="col-xs flex-xs-middle flex-60">
+                              <img class="rounded-circle max-w-40" src="../../assets/faces/w8.png" alt="image"/>
+                            </div>
+                            <div class="col-xs">
+                              <p class="list-group-item-heading">
+                                Jackie Perkins </p>
+                              <p class="list-group-item-text">
+                                Uber </p>
+                              <p class="list-group-item-text">
+                                <span class="tag tag-info tag-pill">labore</span>
+                                <span class="tag tag-danger tag-pill">incididunt</span>
+                                <span class="tag tag-danger tag-pill">aliqua</span>
+                              </p>
+                            </div>
+                            <div class="col-xs flex-xs-middle flex-60">
+                              <i class="fa fa-dot-circle-o color-danger"></i>
+                            </div>
+                          </div>
+                        </li>
+                        <li class="list-group-item">
+                          <div class="row">
+                            <div class="col-xs flex-xs-middle flex-60">
+                              <img class="rounded-circle max-w-40" src="../../assets/faces/w10.png" alt="image"/>
+                            </div>
+                            <div class="col-xs">
+                              <p class="list-group-item-heading">
+                                Kirsten Perez </p>
+                              <p class="list-group-item-text">
+                                Facebook </p>
+                              <p class="list-group-item-text">
+                                <span class="tag tag-primary tag-pill">dolore</span>
+                                <span class="tag tag-success tag-pill">sit</span>
+                                <span class="tag tag-secondary tag-pill">sed</span>
+                              </p>
+                            </div>
+                            <div class="col-xs flex-xs-middle flex-60">
+                              <i class="fa fa-dot-circle-o color-danger"></i>
+                            </div>
+                          </div>
+                        </li>
+                        <li class="list-group-item">
+                          <div class="row">
+                            <div class="col-xs flex-xs-middle flex-60">
+                              <img class="rounded-circle max-w-40" src="../../assets/faces/w2.png" alt="image"/>
+                            </div>
+                            <div class="col-xs">
+                              <p class="list-group-item-heading">
+                                Gladys Schuster </p>
+                              <p class="list-group-item-text">
+                                Coursera </p>
+                              <p class="list-group-item-text">
+                                <span class="tag tag-info tag-pill">ut</span>
+                                <span class="tag tag-danger tag-pill">magna</span>
+                                <span class="tag tag-info tag-pill">adipiscing</span>
+                              </p>
+                            </div>
+                            <div class="col-xs flex-xs-middle flex-60">
+                              <i class="fa fa-dot-circle-o color-warning"></i>
+                            </div>
+                          </div>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <div class="row m-b-20">
+                  <div class="col-xs-12">
+                    <h4>Offline</h4>
+                    <div class="user-widget-2">
+                      <ul class="list-group">
+                        <li class="list-group-item">
+                          <div class="row">
+                            <div class="col-xs flex-xs-middle flex-60">
+                              <img class="rounded-circle max-w-40" src="../../assets/faces/m9.png" alt="image"/>
+                            </div>
+                            <div class="col-xs">
+                              <p class="list-group-item-heading">
+                                Melvin Hicks </p>
+                              <p class="list-group-item-text">
+                                Google Inc. </p>
+                              <p class="list-group-item-text">
+                                <span class="tag tag-danger tag-pill">Lorem</span>
+                                <span class="tag tag-primary tag-pill">ipsum</span>
+                                <span class="tag tag-warning tag-pill">ut</span>
+                              </p>
+                            </div>
+                            <div class="col-xs flex-xs-middle flex-60">
+                              <i class="fa fa-dot-circle-o color-warning"></i>
+                            </div>
+                          </div>
+                        </li>
+                        <li class="list-group-item">
+                          <div class="row">
+                            <div class="col-xs flex-xs-middle flex-60">
+                              <img class="rounded-circle max-w-40" src="../../assets/faces/m6.png" alt="image"/>
+                            </div>
+                            <div class="col-xs">
+                              <p class="list-group-item-heading">
+                                James Smith </p>
+                              <p class="list-group-item-text">
+                                Apple, Inc. </p>
+                              <p class="list-group-item-text">
+                                <span class="tag tag-success tag-pill">et</span>
+                                <span class="tag tag-warning tag-pill">adipiscing</span>
+                                <span class="tag tag-danger tag-pill">dolor</span>
+                              </p>
+                            </div>
+                            <div class="col-xs flex-xs-middle flex-60">
+                              <i class="fa fa-dot-circle-o color-primary"></i>
+                            </div>
+                          </div>
+                        </li>
+                        <li class="list-group-item">
+                          <div class="row">
+                            <div class="col-xs flex-xs-middle flex-60">
+                              <img class="rounded-circle max-w-40" src="../../assets/faces/m3.png" alt="image"/>
+                            </div>
+                            <div class="col-xs">
+                              <p class="list-group-item-heading">
+                                George Clinton </p>
+                              <p class="list-group-item-text">
+                                Facebook </p>
+                              <p class="list-group-item-text">
+                                <span class="tag tag-secondary tag-pill">adipiscing</span>
+                                <span class="tag tag-danger tag-pill">Lorem</span>
+                                <span class="tag tag-danger tag-pill">dolore</span>
+                              </p>
+                            </div>
+                            <div class="col-xs flex-xs-middle flex-60">
+                              <i class="fa fa-dot-circle-o color-success"></i>
+                            </div>
+                          </div>
+                        </li>
+                        <li class="list-group-item">
+                          <div class="row">
+                            <div class="col-xs flex-xs-middle flex-60">
+                              <img class="rounded-circle max-w-40" src="../../assets/faces/m4.png" alt="image"/>
+                            </div>
+                            <div class="col-xs">
+                              <p class="list-group-item-heading">
+                                Thomas Jefferson </p>
+                              <p class="list-group-item-text">
+                                Quora </p>
+                              <p class="list-group-item-text">
+                                <span class="tag tag-primary tag-pill">dolor</span>
+                                <span class="tag tag-warning tag-pill">eiusmod</span>
+                                <span class="tag tag-secondary tag-pill">magna</span>
+                              </p>
+                            </div>
+                            <div class="col-xs flex-xs-middle flex-60">
+                              <i class="fa fa-dot-circle-o color-success"></i>
+                            </div>
+                          </div>
+                        </li>
+                        <li class="list-group-item">
+                          <div class="row">
+                            <div class="col-xs flex-xs-middle flex-60">
+                              <img class="rounded-circle max-w-40" src="../../assets/faces/m2.png" alt="image"/>
+                            </div>
+                            <div class="col-xs">
+                              <p class="list-group-item-heading">
+                                Lucas Koch </p>
+                              <p class="list-group-item-text">
+                                Reddit </p>
+                              <p class="list-group-item-text">
+                                <span class="tag tag-primary tag-pill">ut</span>
+                                <span class="tag tag-warning tag-pill">dolore</span>
+                                <span class="tag tag-success tag-pill">Lorem</span>
+                              </p>
+                            </div>
+                            <div class="col-xs flex-xs-middle flex-60">
+                              <i class="fa fa-dot-circle-o color-success"></i>
+                            </div>
+                          </div>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div role="tabpanel" class="tab-pane" id="right-sidebar-tabs-1">
+                <div class="row m-b-20">
+                  <div class="col-xs-12">
+                    <h4>Activities</h4>
+                    <div class="activity-widget-1">
+                      <ul class="list-group">
+                        <li class="list-group-item">
+                          <div class="row">
+                            <div class="col-xs flex-xs-middle flex-80">
+                              <span class="tag tag-success">sale</span>
+                            </div>
+                            <div class="col-xs">
+                              <div class="list-group-item-text"></div>
+                              Michael Smith upgraded to the $50 plan
+                            </div>
+                            <div class="col-xs flex-xs-middle flex-120">
+                              <span class="date text-xs">4 minutes ago</span>
+                            </div>
+                          </div>
+                        </li>
+                        <li class="list-group-item">
+                          <div class="row">
+                            <div class="col-xs flex-xs-middle flex-80">
+                              <span class="tag tag-danger">return</span>
+                            </div>
+                            <div class="col-xs">
+                              <div class="list-group-item-text"></div>
+                              Lucas Johnson cancelled the $50 plan
+                            </div>
+                            <div class="col-xs flex-xs-middle flex-120">
+                              <span class="date text-xs">34 minutes ago</span>
+                            </div>
+                          </div>
+                        </li>
+                        <li class="list-group-item">
+                          <div class="row">
+                            <div class="col-xs flex-xs-middle flex-80">
+                              <span class="tag tag-warning">refund</span>
+                            </div>
+                            <div class="col-xs">
+                              <div class="list-group-item-text"></div>
+                              Jane Perez is asking for a refund
+                            </div>
+                            <div class="col-xs flex-xs-middle flex-120">
+                              <span class="date text-xs">2 hours ago</span>
+                            </div>
+                          </div>
+                        </li>
+                        <li class="list-group-item">
+                          <div class="row">
+                            <div class="col-xs flex-xs-middle flex-80">
+                              <span class="tag tag-success">sale</span>
+                            </div>
+                            <div class="col-xs">
+                              <div class="list-group-item-text"></div>
+                              George Michael upgraded to the $25 plan
+                            </div>
+                            <div class="col-xs flex-xs-middle flex-120">
+                              <span class="date text-xs">3 hours ago</span>
+                            </div>
+                          </div>
+                        </li>
+                        <li class="list-group-item">
+                          <div class="row">
+                            <div class="col-xs flex-xs-middle flex-80">
+                              <span class="tag tag-primary">new</span>
+                            </div>
+                            <div class="col-xs">
+                              <div class="list-group-item-text"></div>
+                              Gladys Peters is looking for a new plan
+                            </div>
+                            <div class="col-xs flex-xs-middle flex-120">
+                              <span class="date text-xs">4 hours ago</span>
+                            </div>
+                          </div>
+                        </li>
+                        <li class="list-group-item">
+                          <div class="row">
+                            <div class="col-xs flex-xs-middle flex-80">
+                              <span class="tag tag-info">new</span>
+                            </div>
+                            <div class="col-xs">
+                              <div class="list-group-item-text"></div>
+                              Gladys Peters is looking for a new plan
+                            </div>
+                            <div class="col-xs flex-xs-middle flex-120">
+                              <span class="date text-xs">5 hours ago</span>
+                            </div>
+                          </div>
+                        </li>
+                        <li class="list-group-item">
+                          <div class="row">
+                            <div class="col-xs flex-xs-middle flex-80">
+                              <span class="tag tag-success">sale</span>
+                            </div>
+                            <div class="col-xs">
+                              <div class="list-group-item-text"></div>
+                              John Smith upgraded to the $100 plan
+                            </div>
+                            <div class="col-xs flex-xs-middle flex-120">
+                              <span class="date text-xs">7 hours ago</span>
+                            </div>
+                          </div>
+                        </li>
+                        <li class="list-group-item">
+                          <div class="row">
+                            <div class="col-xs flex-xs-middle flex-80">
+                              <span class="tag tag-warning">refund</span>
+                            </div>
+                            <div class="col-xs">
+                              <div class="list-group-item-text"></div>
+                              Peter Jackson is asking for a refund
+                            </div>
+                            <div class="col-xs flex-xs-middle flex-120">
+                              <span class="date text-xs">8 hours ago</span>
+                            </div>
+                          </div>
+                        </li>
+                        <li class="list-group-item">
+                          <div class="row">
+                            <div class="col-xs flex-xs-middle flex-80">
+                              <span class="tag tag-danger">return</span>
+                            </div>
+                            <div class="col-xs">
+                              <div class="list-group-item-text"></div>
+                              Melvin White is asking for a refund
+                            </div>
+                            <div class="col-xs flex-xs-middle flex-120">
+                              <span class="date text-xs">10 hours ago</span>
+                            </div>
+                          </div>
+                        </li>
+                        <li class="list-group-item">
+                          <div class="row">
+                            <div class="col-xs flex-xs-middle flex-80">
+                              <span class="tag tag-info">new</span>
+                            </div>
+                            <div class="col-xs">
+                              <div class="list-group-item-text"></div>
+                              Lucas Peters is looking for a new plan
+                            </div>
+                            <div class="col-xs flex-xs-middle flex-120">
+                              <span class="date text-xs">Yesterday</span>
+                            </div>
+                          </div>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-xs-12">
+                    <h4>Timeline</h4>
+                    <div class="timeline-widget-4">
+                      <div class="row">
+                        <div class="col-xs-12 timeline timeline-info">
+                          <div class="p-10">
+                            <p>Someone commented on your post</p>
+                            <p class="text-sm text-muted">10 minutes ago</p>
+                            <p class="text-sm m-t-10">
+                              <span>Reply</span>
+                              <i class="m-l-5 m-r-5 fa fa-mail-reply"></i>
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="row">
+                        <div class="col-xs-12 timeline timeline-danger">
+                          <div class="p-10">
+                            <p>A friend posted something on instagram</p>
+                            <p class="text-sm text-muted">30 minutes ago</p>
+                            <p class="text-sm m-t-10">
+                              <span>Like</span>
+                              <i class="m-l-5 m-r-5 fa fa-thumbs-o-up"></i>
+                              <span>Comment</span>
+                              <i class="m-l-5 m-r-5 fa fa-comment"></i>
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="row">
+                        <div class="col-xs-12 timeline timeline-success">
+                          <div class="p-10">
+                            <p>Finished important task</p>
+                            <p class="text-sm text-muted">3 hours ago</p>
+                            <p class="text-sm m-t-10">
+                              <span>10</span>
+                              <i class="m-l-5 m-r-5 fa fa-star-o"></i>
+                              <span>23</span>
+                              <i class="m-l-5 m-r-5 fa fa-heart-o"></i>
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="row">
+                        <div class="col-xs-12 timeline timeline-success">
+                          <div class="p-10">
+                            <p>Went to mars</p>
+                            <p class="text-sm text-muted">Last month</p>
+                            <p class="text-sm m-t-10">
+                              <span>10</span>
+                              <i class="m-l-5 m-r-5 fa fa-check"></i>
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="row">
+                        <div class="col-xs-12 timeline timeline-warning">
+                          <div class="p-10">
+                            <p>Bought a Tesla</p>
+                            <p class="text-sm text-muted">3 months ago</p>
+                            <p class="text-sm m-t-10">
+                              <span>10</span>
+                              <i class="m-l-5 m-r-5 fa fa-twitter"></i>
+                              <span>23</span>
+                              <i class="m-l-5 m-r-5 fa fa-heart"></i>
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- right sidebar -->
+      <div class="col-xs-12 main">
+        <!-- dashboards/dashboard-2 -->
+        <div class="page">
+          <router-outlet></router-outlet>
+        </div>
+        <!-- dashboards/dashboard-2 -->
+      </div>
+    </div>
+  </div>
+
+  <!-- theme config -->
+  <div class="theme-config-outer theme-config">
+    <div class="theme-config-inner">
+      <div class="theme-config">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-xs-12">
+              <h4>Configuration options</h4>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 col-xl-3">
+              <h4>Layout</h4>
+              <ul class="list-group list-group-sm">
+                <li class="list-group-item">
+                  <a href="dashboard-2.html">Default sidebar</a>
+                </li>
+                <li class="list-group-item">
+                  <a href="../../layout-2/dashboards/dashboard-2.html">Collapsed sidebar</a>
+                </li>
+                <li class="list-group-item">
+                  <a href="../../layout-3/dashboards/dashboard-2.html">Top navigation</a>
+                </li>
+              </ul>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 col-xl-3">
+              <h4>Background</h4>
+              <ul class="list-group list-group-sm">
+                <li class="list-group-item">
+                  <div class="row">
+                    <div class="col-xs flex-xs-middle flex-40">
+                      <a href="#" class="theme-config-action" data-action="set-background" data-value="light">
+                        <i class="fa fa-circle-o color-dark"></i>
+                      </a>
+                    </div>
+                    <div class="col-xs">
+                      <p class="list-group-item-text">
+                        <a href="#" class="theme-config-action" data-action="set-background"
+                           data-value="light">light</a>
+                      </p>
+                    </div>
+                  </div>
+                </li>
+                <li class="list-group-item">
+                  <div class="row">
+                    <div class="col-xs flex-xs-middle flex-40">
+                      <a href="#" class="theme-config-action" data-action="set-background" data-value="dark">
+                        <i class="fa fa-circle color-dark"></i>
+                      </a>
+                    </div>
+                    <div class="col-xs">
+                      <p class="list-group-item-text">
+                        <a href="#" class="theme-config-action" data-action="set-background" data-value="dark">dark</a>
+                      </p>
+                    </div>
+                  </div>
+                </li>
+                <li class="list-group-item">
+                  <div class="row">
+                    <div class="col-xs flex-xs-middle flex-40">
+                      <a href="#" class="theme-config-action" data-action="set-background" data-value="primary">
+                        <i class="fa fa-circle color-primary"></i>
+                      </a>
+                    </div>
+                    <div class="col-xs">
+                      <p class="list-group-item-text">
+                        <a href="#" class="theme-config-action" data-action="set-background" data-value="primary">primary</a>
+                      </p>
+                    </div>
+                  </div>
+                </li>
+              </ul>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 col-xl-3">
+              <h4>Navbar</h4>
+              <ul class="list-group list-group-sm">
+                <li class="list-group-item">
+                  <div class="row">
+                    <div class="col-xs flex-xs-middle flex-40">
+                      <a href="#" class="theme-config-action" data-action="set-navbar" data-value="light">
+                        <i class="fa fa-circle-o color-dark"></i>
+                      </a>
+                    </div>
+                    <div class="col-xs">
+                      <p class="list-group-item-text">
+                        <a href="#" class="theme-config-action" data-action="set-navbar" data-value="light">light</a>
+                      </p>
+                    </div>
+                  </div>
+                </li>
+                <li class="list-group-item">
+                  <div class="row">
+                    <div class="col-xs flex-xs-middle flex-40">
+                      <a href="#" class="theme-config-action" data-action="set-navbar" data-value="dark">
+                        <i class="fa fa-circle color-dark"></i>
+                      </a>
+                    </div>
+                    <div class="col-xs">
+                      <p class="list-group-item-text">
+                        <a href="#" class="theme-config-action" data-action="set-navbar" data-value="dark">dark</a>
+                      </p>
+                    </div>
+                  </div>
+                </li>
+                <li class="list-group-item">
+                  <div class="row">
+                    <div class="col-xs flex-xs-middle flex-40">
+                      <a href="#" class="theme-config-action" data-action="set-navbar" data-value="primary">
+                        <i class="fa fa-circle color-primary"></i>
+                      </a>
+                    </div>
+                    <div class="col-xs">
+                      <p class="list-group-item-text">
+                        <a href="#" class="theme-config-action" data-action="set-navbar"
+                           data-value="primary">primary</a>
+                      </p>
+                    </div>
+                  </div>
+                </li>
+              </ul>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 col-xl-3 hidden-layout-3">
+              <h4>Sidebar</h4>
+              <ul class="list-group list-group-sm">
+                <li class="list-group-item">
+                  <div class="row">
+                    <div class="col-xs flex-xs-middle flex-40">
+                      <a href="#" class="theme-config-action" data-action="set-sidebar" data-value="light">
+                        <i class="fa fa-circle-o color-dark"></i>
+                      </a>
+                    </div>
+                    <div class="col-xs">
+                      <p class="list-group-item-text">
+                        <a href="#" class="theme-config-action" data-action="set-sidebar" data-value="light">light</a>
+                      </p>
+                    </div>
+                  </div>
+                </li>
+                <li class="list-group-item">
+                  <div class="row">
+                    <div class="col-xs flex-xs-middle flex-40">
+                      <a href="#" class="theme-config-action" data-action="set-sidebar" data-value="dark">
+                        <i class="fa fa-circle color-dark"></i>
+                      </a>
+                    </div>
+                    <div class="col-xs">
+                      <p class="list-group-item-text">
+                        <a href="#" class="theme-config-action" data-action="set-sidebar" data-value="dark">dark</a>
+                      </p>
+                    </div>
+                  </div>
+                </li>
+                <li class="list-group-item">
+                  <div class="row">
+                    <div class="col-xs flex-xs-middle flex-40">
+                      <a href="#" class="theme-config-action" data-action="set-sidebar" data-value="primary">
+                        <i class="fa fa-circle color-primary"></i>
+                      </a>
+                    </div>
+                    <div class="col-xs">
+                      <p class="list-group-item-text">
+                        <a href="#" class="theme-config-action" data-action="set-sidebar"
+                           data-value="primary">primary</a>
+                      </p>
+                    </div>
+                  </div>
+                </li>
+              </ul>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 col-xl-3 hidden-layout-1 hidden-layout-2">
+              <h4>Top navigation</h4>
+              <ul class="list-group list-group-sm">
+                <li class="list-group-item">
+                  <div class="row">
+                    <div class="col-xs flex-xs-middle flex-40">
+                      <a href="#" class="theme-config-action" data-action="set-top-navigation" data-value="light">
+                        <i class="fa fa-circle-o color-dark"></i>
+                      </a>
+                    </div>
+                    <div class="col-xs">
+                      <p class="list-group-item-text">
+                        <a href="#" class="theme-config-action" data-action="set-top-navigation" data-value="light">light</a>
+                      </p>
+                    </div>
+                  </div>
+                </li>
+                <li class="list-group-item">
+                  <div class="row">
+                    <div class="col-xs flex-xs-middle flex-40">
+                      <a href="#" class="theme-config-action" data-action="set-top-navigation" data-value="dark">
+                        <i class="fa fa-circle color-dark"></i>
+                      </a>
+                    </div>
+                    <div class="col-xs">
+                      <p class="list-group-item-text">
+                        <a href="#" class="theme-config-action" data-action="set-top-navigation"
+                           data-value="dark">dark</a>
+                      </p>
+                    </div>
+                  </div>
+                </li>
+                <li class="list-group-item">
+                  <div class="row">
+                    <div class="col-xs flex-xs-middle flex-40">
+                      <a href="#" class="theme-config-action" data-action="set-top-navigation" data-value="primary">
+                        <i class="fa fa-circle color-primary"></i>
+                      </a>
+                    </div>
+                    <div class="col-xs">
+                      <p class="list-group-item-text">
+                        <a href="#" class="theme-config-action" data-action="set-top-navigation" data-value="primary">primary</a>
+                      </p>
+                    </div>
+                  </div>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="left-sidebar-backdrop"></div>
+  <div class="right-sidebar-backdrop"></div>
+  <div class="theme-config-backdrop"></div>
+</div>

@@ -1,0 +1,85 @@
+.card {
+  font-size: 14px;
+}
+
+.card .card-img,
+.card .card-img-top {
+  max-width: 100%;
+  height: auto;
+}
+
+.card .card-title {
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
+.card .card-text {
+  font-size: 14px;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
+.card .card-actions {
+  padding: 10px 0;
+}
+
+.card.card-tags-left {
+  position: relative;
+}
+
+.card.card-tags-left .card-tags {
+  position: absolute;
+  top: 15px;
+  left: 15px;
+}
+
+.card.card-tags-left .card-tags > .tag {
+  float: left;
+  margin-right: 5px;
+}
+
+.card.card-tags-right {
+  position: relative;
+}
+
+.card.card-tags-right .card-tags {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+}
+
+.card.card-tags-right .card-tags > .tag {
+  float: right;
+  margin-left: 5px;
+}
+
+.card .card-block.with-icon i {
+  font-size: 22px;
+  float: left;
+  margin: 12px 20px 10px 0;
+}
+
+.card .card-block.with-avatar .avatar {
+  font-size: 22px;
+  float: left;
+  margin: 2px 20px 10px 0;
+}
+
+[data-background="light"] .card {
+  background: #fff;
+  color: #353535;
+  border-color: #e6e6e6;
+}
+
+[data-background="dark"] .card {
+  background: #303030;
+  color: #f5f5f5;
+  border-color: #303030;
+}
+
+[data-background="primary"] .card {
+  background: #1f2a97;
+  color: #f5f5f5;
+  border-color: #1f2a97;
+}

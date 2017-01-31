@@ -1,0 +1,102 @@
+.show-grid {
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-bottom: 20px;
+}
+
+.show-grid [class^=col-] {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+  font-weight: 500;
+}
+
+.show-grid [class^=col-]:nth-child(odd) {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+  font-weight: 500;
+}
+
+[data-background="light"] .show-grid [class^=col-] {
+  color: #fff;
+  background-color: #2684f5;
+}
+
+[data-background="light"] .show-grid [class^=col-]:nth-child(odd) {
+  color: #fff;
+  background-color: #4965fe;
+}
+
+[data-background="light"] .vertical-alignment-example .show-grid {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+[data-background="light"] .vertical-alignment-example .container {
+  background-color: #e6e6e6;
+}
+
+[data-background="light"] .vertical-alignment-example .row {
+  min-height: 6rem;
+}
+
+[data-background="light"] .vertical-alignment-example .row .col-xs {
+  margin-bottom: 0;
+}
+
+[data-background="dark"] .show-grid [class^=col-] {
+  color: #fff;
+  background-color: #ff9800;
+}
+
+[data-background="dark"] .show-grid [class^=col-]:nth-child(odd) {
+  color: #fff;
+  background-color: #ffa21a;
+}
+
+[data-background="dark"] .vertical-alignment-example .show-grid {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+[data-background="dark"] .vertical-alignment-example .container {
+  background-color: #2b2b2b;
+}
+
+[data-background="dark"] .vertical-alignment-example .row {
+  min-height: 6rem;
+}
+
+[data-background="dark"] .vertical-alignment-example .row .col-xs {
+  margin-bottom: 0;
+}
+
+[data-background="primary"] .show-grid [class^=col-] {
+  color: #fff;
+  background-color: #54b859;
+}
+
+[data-background="primary"] .show-grid [class^=col-]:nth-child(odd) {
+  color: #fff;
+  background-color: #66bf6a;
+}
+
+[data-background="primary"] .vertical-alignment-example .show-grid {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+[data-background="primary"] .vertical-alignment-example .container {
+  background-color: #1d288f;
+}
+
+[data-background="primary"] .vertical-alignment-example .row {
+  min-height: 6rem;
+}
+
+[data-background="primary"] .vertical-alignment-example .row .col-xs {
+  margin-bottom: 0;
+}

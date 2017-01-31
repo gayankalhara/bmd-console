@@ -1,0 +1,105 @@
+.flag-icons {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+.flag-icons .icon {
+  text-align: center;
+  width: 240px;
+  min-height: 100px;
+  padding: 20px 0;
+  margin-bottom: 20px;
+}
+
+.flag-icons .icon .flag-1x, .flag-icons .icon .flag-2x, .flag-icons .icon .flag-3x {
+  margin: 0 5px;
+}
+
+.flag-icons .icon .icons {
+  display: block;
+  margin-bottom: 20px;
+}
+
+.flag-icons .icon .icon-class {
+  display: block;
+  font-size: 13px;
+}
+
+.flag-1x {
+  position: relative;
+  height: 20px;
+  width: 30px;
+  border: 0;
+  overflow: hidden;
+  background: transparent;
+}
+
+.flag-2x {
+  position: relative;
+  height: 30px;
+  width: 45px;
+  border: 0;
+  overflow: hidden;
+  background: transparent;
+}
+
+.flag-3x {
+  position: relative;
+  height: 40px;
+  width: 60px;
+  border: 0;
+  overflow: hidden;
+  background: transparent;
+}
+
+.flag-1x, .flag-2x, .flag-3x {
+  display: inline-block;
+}
+
+.flag-1x > .flag, .flag-2x > .flag, .flag-3x > .flag {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+}
+
+[data-background="light"] .flag-icons .icon {
+  color: #353535;
+}
+
+[data-background="light"] .flag-icons .icon i, [data-background="light"] .flag-icons .icon .icon-class {
+  color: #353535;
+}
+
+[data-background="dark"] .flag-icons .icon {
+  color: #f5f5f5;
+}
+
+[data-background="dark"] .flag-icons .icon i, [data-background="dark"] .flag-icons .icon .icon-class {
+  color: #f5f5f5;
+}
+
+[data-background="primary"] .flag-icons .icon {
+  color: #f5f5f5;
+}
+
+[data-background="primary"] .flag-icons .icon i, [data-background="primary"] .flag-icons .icon .icon-class {
+  color: #f5f5f5;
+}

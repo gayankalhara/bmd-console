@@ -1,0 +1,395 @@
+@media (max-width: 543px) {
+  .sign-in {
+    height: 550px;
+    width: 500px;
+    background: url(../../images/sign-in-3.jpg) no-repeat center center fixed;
+    background-size: cover;
+    position: relative;
+    color: #616161;
+    box-shadow: 0px 4px 5px -2px rgba(0, 0, 0, 0.2), 0px 7px 10px 1px rgba(0, 0, 0, 0.14), 0px 2px 16px 1px rgba(0, 0, 0, 0.12);
+    margin: 0 20px;
+  }
+  .sign-in .logo {
+    display: none;
+    position: absolute;
+    bottom: 30px;
+    left: 15px;
+    color: #fff;
+  }
+  .sign-in .description {
+    display: none;
+    position: absolute;
+    top: 10px;
+    left: 0px;
+    right: 0px;
+    width: 320px;
+    padding: 40px;
+  }
+  .sign-in .description h3 {
+    font-size: 20px;
+    margin-bottom: 25px;
+    text-align: left;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #fff;
+  }
+  .sign-in .description p {
+    color: #fff;
+  }
+  .sign-in:before {
+    position: absolute;
+    content: "";
+    display: none;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 550px;
+    width: 320px;
+    background-color: #ff9800;
+    opacity: 0.75;
+  }
+  .sign-in form {
+    padding: 40px;
+    background: #fff;
+    margin-left: 0;
+    height: 550px;
+  }
+  .sign-in form h3 {
+    font-size: 18px;
+  }
+  .sign-in form h4 {
+    font-size: 15px;
+  }
+  .sign-in label:not(.custom-control) {
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+  }
+  .sign-in .form-group {
+    margin-bottom: 30px;
+  }
+  .sign-in .form-group .input-group .input-group-addon {
+    background-color: #f5f5f5;
+    border-color: #e0e0e0;
+    border-radius: 15px 0 0 15px;
+  }
+  .sign-in .form-group .input-group .input-group-addon i {
+    color: #9e9e9e;
+  }
+  .sign-in .form-group .input-group input {
+    background-color: #f5f5f5;
+    border-color: #e0e0e0;
+    border-left-color: #f5f5f5;
+    border-radius: 0 15px 15px 0;
+  }
+  .sign-in .links {
+    color: #9e9e9e;
+    font-size: 15px;
+  }
+  .sign-in .links a {
+    color: #2684f5;
+  }
+  .sign-in .copyright {
+    display: none;
+    position: absolute;
+    bottom: 5px;
+    left: 40px;
+    font-size: 13px;
+    color: #fff;
+  }
+}
+
+@media (min-width: 544px) and (max-width: 767px) {
+  .sign-in {
+    height: 520px;
+    width: 600px;
+    background: url(../../images/sign-in-3.jpg) no-repeat center center fixed;
+    background-size: cover;
+    position: relative;
+    color: #616161;
+    box-shadow: 0px 4px 5px -2px rgba(0, 0, 0, 0.2), 0px 7px 10px 1px rgba(0, 0, 0, 0.14), 0px 2px 16px 1px rgba(0, 0, 0, 0.12);
+    margin: 0 20px;
+  }
+  .sign-in .logo {
+    position: absolute;
+    bottom: 30px;
+    left: 15px;
+    color: #fff;
+  }
+  .sign-in .description {
+    position: absolute;
+    top: 10px;
+    left: 0px;
+    right: 0px;
+    width: 250px;
+    padding: 40px;
+  }
+  .sign-in .description h3 {
+    font-size: 20px;
+    margin-bottom: 25px;
+    text-align: left;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #fff;
+  }
+  .sign-in .description p {
+    color: #fff;
+  }
+  .sign-in:before {
+    position: absolute;
+    content: "";
+    display: block;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 520px;
+    width: 250px;
+    background-color: #ff9800;
+    opacity: 0.75;
+  }
+  .sign-in form {
+    padding: 40px;
+    background: #fff;
+    margin-left: 250px;
+    height: 520px;
+  }
+  .sign-in form h3, .sign-in form h4 {
+    display: none;
+  }
+  .sign-in label:not(.custom-control) {
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+  }
+  .sign-in .form-group {
+    margin-bottom: 30px;
+  }
+  .sign-in .form-group .input-group .input-group-addon {
+    background-color: #f5f5f5;
+    border-color: #e0e0e0;
+    border-radius: 15px 0 0 15px;
+  }
+  .sign-in .form-group .input-group .input-group-addon i {
+    color: #9e9e9e;
+  }
+  .sign-in .form-group .input-group input {
+    background-color: #f5f5f5;
+    border-color: #e0e0e0;
+    border-left-color: #f5f5f5;
+    border-radius: 0 15px 15px 0;
+  }
+  .sign-in .links {
+    color: #9e9e9e;
+    font-size: 15px;
+  }
+  .sign-in .links a {
+    color: #2684f5;
+  }
+  .sign-in .copyright {
+    display: none;
+    position: absolute;
+    bottom: 5px;
+    left: 40px;
+    font-size: 13px;
+    color: #fff;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .sign-in {
+    height: 470px;
+    width: 750px;
+    background: url(../../images/sign-in-3.jpg) no-repeat center center fixed;
+    background-size: cover;
+    position: relative;
+    color: #616161;
+    box-shadow: 0px 4px 5px -2px rgba(0, 0, 0, 0.2), 0px 7px 10px 1px rgba(0, 0, 0, 0.14), 0px 2px 16px 1px rgba(0, 0, 0, 0.12);
+    margin: 0 20px;
+  }
+  .sign-in .logo {
+    position: absolute;
+    bottom: 30px;
+    left: 15px;
+    color: #fff;
+  }
+  .sign-in .description {
+    position: absolute;
+    top: 10px;
+    left: 0px;
+    right: 0px;
+    width: 320px;
+    padding: 40px;
+  }
+  .sign-in .description h3 {
+    font-size: 20px;
+    margin-bottom: 25px;
+    text-align: left;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #fff;
+  }
+  .sign-in .description p {
+    color: #fff;
+  }
+  .sign-in:before {
+    position: absolute;
+    content: "";
+    display: block;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 470px;
+    width: 320px;
+    background-color: #ff9800;
+    opacity: 0.75;
+  }
+  .sign-in form {
+    padding: 40px;
+    background: #fff;
+    margin-left: 320px;
+    height: 470px;
+  }
+  .sign-in form h3, .sign-in form h4 {
+    display: none;
+  }
+  .sign-in label:not(.custom-control) {
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+  }
+  .sign-in .form-group {
+    margin-bottom: 30px;
+  }
+  .sign-in .form-group .input-group .input-group-addon {
+    background-color: #f5f5f5;
+    border-color: #e0e0e0;
+    border-radius: 15px 0 0 15px;
+  }
+  .sign-in .form-group .input-group .input-group-addon i {
+    color: #9e9e9e;
+  }
+  .sign-in .form-group .input-group input {
+    background-color: #f5f5f5;
+    border-color: #e0e0e0;
+    border-left-color: #f5f5f5;
+    border-radius: 0 15px 15px 0;
+  }
+  .sign-in .links {
+    color: #9e9e9e;
+    font-size: 15px;
+  }
+  .sign-in .links a {
+    color: #2684f5;
+  }
+  .sign-in .copyright {
+    display: none;
+    position: absolute;
+    bottom: 5px;
+    left: 40px;
+    font-size: 13px;
+    color: #fff;
+  }
+}
+
+@media (min-width: 992px) {
+  .sign-in {
+    height: 470px;
+    width: 800px;
+    background: url(../../images/sign-in-3.jpg) no-repeat center center fixed;
+    background-size: cover;
+    position: relative;
+    color: #616161;
+    box-shadow: 0px 4px 5px -2px rgba(0, 0, 0, 0.2), 0px 7px 10px 1px rgba(0, 0, 0, 0.14), 0px 2px 16px 1px rgba(0, 0, 0, 0.12);
+  }
+  .sign-in .logo {
+    position: absolute;
+    bottom: 30px;
+    left: 15px;
+    color: #fff;
+  }
+  .sign-in .description {
+    position: absolute;
+    top: 10px;
+    left: 0px;
+    right: 0px;
+    width: 320px;
+    padding: 40px;
+  }
+  .sign-in .description h3 {
+    font-size: 20px;
+    margin-bottom: 25px;
+    text-align: left;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #fff;
+  }
+  .sign-in .description p {
+    color: #fff;
+  }
+  .sign-in:before {
+    position: absolute;
+    content: "";
+    display: block;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 470px;
+    width: 320px;
+    background-color: #ff9800;
+    opacity: 0.75;
+  }
+  .sign-in form {
+    padding: 40px;
+    background: #fff;
+    margin-left: 320px;
+    height: 470px;
+  }
+  .sign-in form h3, .sign-in form h4 {
+    display: none;
+  }
+  .sign-in label:not(.custom-control) {
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+  }
+  .sign-in .form-group {
+    margin-bottom: 30px;
+  }
+  .sign-in .form-group .input-group .input-group-addon {
+    background-color: #f5f5f5;
+    border-color: #e0e0e0;
+    border-radius: 15px 0 0 15px;
+  }
+  .sign-in .form-group .input-group .input-group-addon i {
+    color: #9e9e9e;
+  }
+  .sign-in .form-group .input-group input {
+    background-color: #f5f5f5;
+    border-color: #e0e0e0;
+    border-left-color: #f5f5f5;
+    border-radius: 0 15px 15px 0;
+  }
+  .sign-in .links {
+    color: #9e9e9e;
+    font-size: 15px;
+  }
+  .sign-in .links a {
+    color: #2684f5;
+  }
+  .sign-in .copyright {
+    display: none;
+    position: absolute;
+    bottom: 5px;
+    left: 40px;
+    font-size: 13px;
+    color: #fff;
+  }
+}

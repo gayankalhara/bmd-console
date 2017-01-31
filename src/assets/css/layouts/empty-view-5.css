@@ -1,0 +1,15 @@
+[data-layout="empty-view-5"] {
+  position: relative;
+  -ms-overflow-style: none;
+  overflow-x: hidden;
+}
+
+[data-layout="empty-view-5"] ::-webkit-scrollbar {
+  display: none;
+  width: 0 !important;
+}
+
+html [data-layout="empty-view-5"] {
+  background: url(../../images/empty-view-5.jpg) no-repeat center center fixed;
+  background-size: cover;
+}

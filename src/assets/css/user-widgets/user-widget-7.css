@@ -1,0 +1,53 @@
+.user-widget-7 {
+  padding: 20px;
+  min-height: 100px;
+  width: 100%;
+  position: relative;
+  text-align: center;
+  box-shadow: 0px 4px 5px -2px rgba(0, 0, 0, 0.2), 0px 7px 10px 1px rgba(0, 0, 0, 0.14), 0px 2px 16px 1px rgba(0, 0, 0, 0.12);
+}
+
+.user-widget-7:before {
+  position: absolute;
+  content: "";
+  display: block;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 70px;
+  width: 100%;
+  background-image: url(../../images/635.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.user-widget-7 .row, .user-widget-7 p {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.user-widget-7 .rounded-circle {
+  margin-bottom: 10px;
+  height: 100px;
+  width: 100px;
+  border-width: 3px;
+  border-style: solid;
+  border-color: #fff;
+  box-shadow: 0px 4px 5px -2px rgba(0, 0, 0, 0.2), 0px 7px 10px 1px rgba(0, 0, 0, 0.14), 0px 2px 16px 1px rgba(0, 0, 0, 0.12);
+}
+
+[data-background="light"] .user-widget-7 {
+  background-color: #e6e6e6;
+  color: #353535;
+}
+
+[data-background="dark"] .user-widget-7 {
+  background-color: #2b2b2b;
+  color: #f5f5f5;
+}
+
+[data-background="primary"] .user-widget-7 {
+  background-color: #1d288f;
+  color: #f5f5f5;
+}

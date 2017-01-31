@@ -1,0 +1,29 @@
+.finance-widget-1 td {
+  font-size: 15px;
+}
+
+.finance-widget-1 td:nth-child(1) {
+  width: 60%;
+}
+
+.finance-widget-1 td:nth-child(2) {
+  text-align: right;
+}
+
+.finance-widget-1 td:nth-child(2) span {
+  margin-left: 10px;
+}
+
+.finance-widget-1 td:nth-child(2) .variation {
+  font-size: 14px;
+}
+
+.finance-widget-1 .fa-caret-up,
+.finance-widget-1 .variation-up {
+  color: #43a047;
+}
+
+.finance-widget-1 .fa-caret-down,
+.finance-widget-1 .variation-down {
+  color: #e53935;
+}

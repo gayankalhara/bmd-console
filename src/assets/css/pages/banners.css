@@ -1,0 +1,115 @@
+.banners {
+  position: relative;
+}
+
+.banners .icon-512 {
+  height: 512px;
+  width: 512px;
+  text-align: center;
+  font-size: 450px;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  height: 512px;
+  width: 512px;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  background-color: #2684f5;
+  color: #fff;
+}
+
+.banners .icon {
+  height: 80px;
+  width: 80px;
+  text-align: center;
+  display: table-cell;
+  vertical-align: middle;
+  background-color: #2684f5;
+  color: #fff;
+}
+
+.banners .icon .fa {
+  color: #fff;
+  font-size: 44px;
+  margin-top: 4px;
+}
+
+.banners .icon .letter {
+  margin-top: 4px;
+  font-size: 11px;
+}
+
+.banners .banner {
+  width: 590px;
+  height: 300px;
+  overflow: hidden;
+  position: relative;
+  background: #212121;
+  color: #fff;
+}
+
+.banners .banner .screenshot {
+  position: absolute;
+  top: 90px;
+  left: 180px;
+  box-shadow: 0px 4px 5px -2px rgba(0, 0, 0, 0.2), 0px 7px 10px 1px rgba(0, 0, 0, 0.14), 0px 2px 16px 1px rgba(0, 0, 0, 0.12);
+}
+
+.banners .banner .title {
+  position: absolute;
+  top: 20px;
+  left: 25px;
+  font-size: 15px;
+  text-transform: uppercase;
+  font-weight: 700;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.25);
+}
+
+.banners .banner .title .fa {
+  margin-right: 5px;
+  color: #fff;
+}
+
+.banners .banner .tagline {
+  font-size: 12px;
+  position: absolute;
+  top: 48px;
+  left: 25px;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.25);
+}
+
+.banners .banner .description {
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.25);
+  font-size: 12px;
+  position: absolute;
+  top: 90px;
+  left: -5px;
+  width: 160px;
+}
+
+.banners .banner:before {
+  position: absolute;
+  content: "";
+  display: block;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 300px;
+  width: 100%;
+  background-image: url(../../images/432.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  opacity: 0.75;
+}

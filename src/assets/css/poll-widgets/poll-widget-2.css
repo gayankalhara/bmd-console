@@ -1,0 +1,23 @@
+.poll-widget-2 {
+  width: 100%;
+  position: relative;
+  color: #fff;
+}
+
+.poll-widget-2 .list-unstyled {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+.poll-widget-2 .list-unstyled li {
+  font-size: 13px;
+  height: 30px;
+  line-height: 30px;
+  font-weight: 700;
+  overflow: hidden;
+}
+
+.poll-widget-2 .list-unstyled li .title {
+  padding: 0 10px;
+}

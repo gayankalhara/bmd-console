@@ -1,0 +1,197 @@
+[data-background="light"] .pagination .page-item a {
+  color: #353535;
+  border-color: #e6e6e6;
+  background-color: #fff;
+}
+
+[data-background="light"] .pagination .page-item:hover a, [data-background="light"] .pagination .page-item.active a {
+  color: #fff;
+  border-color: #2684f5;
+  background-color: #2684f5;
+}
+
+[data-background="light"] .pagination.pagination-light .page-item:hover a, [data-background="light"] .pagination.pagination-light .page-item.active a {
+  color: #fff;
+  border-color: #f5f5f5;
+  background-color: #f5f5f5;
+}
+
+[data-background="light"] .pagination.pagination-dark .page-item:hover a, [data-background="light"] .pagination.pagination-dark .page-item.active a {
+  color: #fff;
+  border-color: #212121;
+  background-color: #212121;
+}
+
+[data-background="light"] .pagination.pagination-default .page-item:hover a, [data-background="light"] .pagination.pagination-default .page-item.active a {
+  color: #fff;
+  border-color: #212121;
+  background-color: #212121;
+}
+
+[data-background="light"] .pagination.pagination-primary .page-item:hover a, [data-background="light"] .pagination.pagination-primary .page-item.active a {
+  color: #fff;
+  border-color: #2684f5;
+  background-color: #2684f5;
+}
+
+[data-background="light"] .pagination.pagination-secondary .page-item:hover a, [data-background="light"] .pagination.pagination-secondary .page-item.active a {
+  color: #fff;
+  border-color: #6200ea;
+  background-color: #6200ea;
+}
+
+[data-background="light"] .pagination.pagination-info .page-item:hover a, [data-background="light"] .pagination.pagination-info .page-item.active a {
+  color: #fff;
+  border-color: #00b8d4;
+  background-color: #00b8d4;
+}
+
+[data-background="light"] .pagination.pagination-success .page-item:hover a, [data-background="light"] .pagination.pagination-success .page-item.active a {
+  color: #fff;
+  border-color: #43a047;
+  background-color: #43a047;
+}
+
+[data-background="light"] .pagination.pagination-warning .page-item:hover a, [data-background="light"] .pagination.pagination-warning .page-item.active a {
+  color: #fff;
+  border-color: #ff9800;
+  background-color: #ff9800;
+}
+
+[data-background="light"] .pagination.pagination-danger .page-item:hover a, [data-background="light"] .pagination.pagination-danger .page-item.active a {
+  color: #fff;
+  border-color: #e53935;
+  background-color: #e53935;
+}
+
+[data-background="dark"] .pagination .page-item a {
+  color: #f5f5f5;
+  border-color: #303030;
+  background-color: #2b2b2b;
+}
+
+[data-background="dark"] .pagination .page-item:hover a, [data-background="dark"] .pagination .page-item.active a {
+  color: #fff;
+  border-color: #2684f5;
+  background-color: #2684f5;
+}
+
+[data-background="dark"] .pagination.pagination-light .page-item:hover a, [data-background="dark"] .pagination.pagination-light .page-item.active a {
+  color: #fff;
+  border-color: #f5f5f5;
+  background-color: #f5f5f5;
+}
+
+[data-background="dark"] .pagination.pagination-dark .page-item:hover a, [data-background="dark"] .pagination.pagination-dark .page-item.active a {
+  color: #fff;
+  border-color: #212121;
+  background-color: #212121;
+}
+
+[data-background="dark"] .pagination.pagination-default .page-item:hover a, [data-background="dark"] .pagination.pagination-default .page-item.active a {
+  color: #fff;
+  border-color: #212121;
+  background-color: #212121;
+}
+
+[data-background="dark"] .pagination.pagination-primary .page-item:hover a, [data-background="dark"] .pagination.pagination-primary .page-item.active a {
+  color: #fff;
+  border-color: #2684f5;
+  background-color: #2684f5;
+}
+
+[data-background="dark"] .pagination.pagination-secondary .page-item:hover a, [data-background="dark"] .pagination.pagination-secondary .page-item.active a {
+  color: #fff;
+  border-color: #6200ea;
+  background-color: #6200ea;
+}
+
+[data-background="dark"] .pagination.pagination-info .page-item:hover a, [data-background="dark"] .pagination.pagination-info .page-item.active a {
+  color: #fff;
+  border-color: #00b8d4;
+  background-color: #00b8d4;
+}
+
+[data-background="dark"] .pagination.pagination-success .page-item:hover a, [data-background="dark"] .pagination.pagination-success .page-item.active a {
+  color: #fff;
+  border-color: #43a047;
+  background-color: #43a047;
+}
+
+[data-background="dark"] .pagination.pagination-warning .page-item:hover a, [data-background="dark"] .pagination.pagination-warning .page-item.active a {
+  color: #fff;
+  border-color: #ff9800;
+  background-color: #ff9800;
+}
+
+[data-background="dark"] .pagination.pagination-danger .page-item:hover a, [data-background="dark"] .pagination.pagination-danger .page-item.active a {
+  color: #fff;
+  border-color: #e53935;
+  background-color: #e53935;
+}
+
+[data-background="primary"] .pagination .page-item a {
+  color: #f5f5f5;
+  border-color: #1f2a97;
+  background-color: #1d288f;
+}
+
+[data-background="primary"] .pagination .page-item:hover a, [data-background="primary"] .pagination .page-item.active a {
+  color: #fff;
+  border-color: #2684f5;
+  background-color: #2684f5;
+}
+
+[data-background="primary"] .pagination.pagination-light .page-item:hover a, [data-background="primary"] .pagination.pagination-light .page-item.active a {
+  color: #fff;
+  border-color: #f5f5f5;
+  background-color: #f5f5f5;
+}
+
+[data-background="primary"] .pagination.pagination-dark .page-item:hover a, [data-background="primary"] .pagination.pagination-dark .page-item.active a {
+  color: #fff;
+  border-color: #212121;
+  background-color: #212121;
+}
+
+[data-background="primary"] .pagination.pagination-default .page-item:hover a, [data-background="primary"] .pagination.pagination-default .page-item.active a {
+  color: #fff;
+  border-color: #212121;
+  background-color: #212121;
+}
+
+[data-background="primary"] .pagination.pagination-primary .page-item:hover a, [data-background="primary"] .pagination.pagination-primary .page-item.active a {
+  color: #fff;
+  border-color: #2684f5;
+  background-color: #2684f5;
+}
+
+[data-background="primary"] .pagination.pagination-secondary .page-item:hover a, [data-background="primary"] .pagination.pagination-secondary .page-item.active a {
+  color: #fff;
+  border-color: #6200ea;
+  background-color: #6200ea;
+}
+
+[data-background="primary"] .pagination.pagination-info .page-item:hover a, [data-background="primary"] .pagination.pagination-info .page-item.active a {
+  color: #fff;
+  border-color: #00b8d4;
+  background-color: #00b8d4;
+}
+
+[data-background="primary"] .pagination.pagination-success .page-item:hover a, [data-background="primary"] .pagination.pagination-success .page-item.active a {
+  color: #fff;
+  border-color: #43a047;
+  background-color: #43a047;
+}
+
+[data-background="primary"] .pagination.pagination-warning .page-item:hover a, [data-background="primary"] .pagination.pagination-warning .page-item.active a {
+  color: #fff;
+  border-color: #ff9800;
+  background-color: #ff9800;
+}
+
+[data-background="primary"] .pagination.pagination-danger .page-item:hover a, [data-background="primary"] .pagination.pagination-danger .page-item.active a {
+  color: #fff;
+  border-color: #e53935;
+  background-color: #e53935;
+}
